@@ -75,7 +75,6 @@ for _a in a:
 
 				#remove redundancies
 				def remove_redundancies():
-					print("remove_redundancies")
 					polymers_final = list()
 					for string in polymers:
 						if string in polymers_final:
