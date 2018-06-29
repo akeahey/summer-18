@@ -14,6 +14,7 @@ import wget
 only_menu2 = SoupStrainer(id = "menu2")
 with open("scrape_page_2.html") as fp: 
 	soup = BeautifulSoup(fp,'lxml', parse_only = only_menu2)
+polymers = list ()
 
 #find all 'a' tags that are part of alphabetical sorting of polymer data
 a = soup.find_all("a", href=True, string=re.compile(" - "))
@@ -65,14 +66,23 @@ for _a in a:
 			with open(marquis.replace("polymer index/", "")) as fp: 
 				soup = BeautifulSoup(fp,'lxml', parse_only = only_id_content)
 
-			polymers = list ()
-
 			#retrieve polymer names and add to list of polymers
 			li = soup.find_all("li")
 			for _li in li:
 				a = _li.find_all("a")
 				for _a in a:
-					polymers.append("    " + _a.get_text())
+					polymers.append(_a.get_text())
 
-			print(polymers)
+				#remove redundancies
+				def remove_redundancies():
+					print("remove_redundancies")
+					polymers_final = list()
+					for string in polymers:
+						if string in polymers_final:
+							continue 
+						else: 
+							polymers_final.append(string)
 
+					return polymers_final
+				
+print(remove_redundancies())
