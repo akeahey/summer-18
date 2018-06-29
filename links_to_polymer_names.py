@@ -84,4 +84,7 @@ for _a in a:
 
 					return polymers_final
 				
-print(remove_redundancies())
+#TASK 5: Turn Polymer Names into File 
+
+polymers_list = remove_redundancies()
+print(*polymers_list, sep = "\n")
