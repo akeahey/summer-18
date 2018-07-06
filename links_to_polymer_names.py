@@ -3,10 +3,15 @@
 
 #TASK 1: Setup
 
+import re
+import os
+import sys
+import wget
 from bs4 import BeautifulSoup
 from bs4 import SoupStrainer
-import re
-import wget
+
+home_dir = sys.argv[1]
+
 
 #TASK 2: Parse and Follow Header Links
 
@@ -17,7 +22,7 @@ with open("scrape_page_2.html") as fp:
 polymers = list ()
 
 #find all 'a' tags that are part of alphabetical sorting of polymer data
-a = soup.find_all("a", href=True, string=re.compile(" - "))
+a = soup.find_all("a", href = True, string = re.compile(" - "))
 for _a in a: 
 
 	#retrieve urls
@@ -26,13 +31,20 @@ for _a in a:
 	url = "http://www.polymerdatabase.com/" + y[0]
 
 	#download urls
-	wget.download(url, '/Users/amber/Documents/CODE/')
-				
+	for string in url: 
+		if os.path.exists(y[0]) is True:
+			continue
+		elif os.path.exists(y[0].replace("polymer index/", "")) is True: 
+			continue
+		else: 
+			wget.download(url, home_dir)
+
+
 #TASK 3: Parse and Follow Sub-Header Links
 
 #narrow downloaded pages down to tables with polymer group names
 	only_table = SoupStrainer ("table")
-	earl = '/Users/amber/Documents/CODE/' + y[0]
+	earl = home_dir + y[0]
 	with open(earl.replace("polymer index", "")) as fp: 
 		soup = BeautifulSoup(fp,'lxml', parse_only = only_table)
 
@@ -53,19 +65,23 @@ for _a in a:
 			#format urls for download
 			z = polymer_href.split('"')
 			url2 = "http://www.polymerdatabase.com/polymer index/" + z[0]
-						
+
 			#download urls
-			wget.download(url2, '/Users/amber/Documents/CODE/')
+			for string in url2: 
+				if os.path.exists(z[0]) is True:
+					continue
+				else: 
+					wget.download(url2, home_dir)
 
 
 #TASK 4: Extracting Polymer Names for List
 
 			#narrow downloaded pages down to content with polymer names
 			only_id_content = SoupStrainer (id = "content")
-			marquis = '/Users/amber/Documents/CODE/' + z[0]
+			marquis = home_dir + z[0]
 			with open(marquis.replace("polymer index/", "")) as fp: 
 				soup = BeautifulSoup(fp,'lxml', parse_only = only_id_content)
-
+		
 			#retrieve polymer names and add to list of polymers
 			li = soup.find_all("li")
 			for _li in li:
@@ -81,10 +97,31 @@ for _a in a:
 							continue 
 						else: 
 							polymers_final.append(string)
-
 					return polymers_final
-				
-#TASK 5: Turn Polymer Names into File 
+
+
+#TASK 5: Add Top 50 Polymers
 
 polymers_list = remove_redundancies()
-print(*polymers_list, sep = "\n")
+
+only_table = SoupStrainer ("table")
+with open("scrape_page.html") as fp: 
+	soup = BeautifulSoup(fp,'lxml', parse_only = only_table)
+
+li = soup.find_all("li")
+for _li in li:
+	a = _li.find_all("a")
+	for _a in a:
+		polymers_list.append(_a.get_text())
+
+
+#TASK 6: Turn Polymers Into File
+
+filename = 'polymer_names.txt'
+f = open(filename, 'w+')
+for string in polymers_list: 
+	line = '%s\n' % (string)
+	f.write(line)
+f.close()
+
+
