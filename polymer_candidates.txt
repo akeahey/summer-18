@@ -1,8 +1,6 @@
 nanocomposites
 polypeptides
-3-glycidoxypropyltrimethoxysilane
 Acrylamides
-EHOMO = −4.70 eV, Eg = 1.90 eV
 [Me2Si(η5-Me4C5)(NtBu)]TiCl2
 dithranol
 gyration
@@ -10,8 +8,7 @@ PMEPL
 PMDA
 PHEPE
 poly(ethoxydi(ethylene glycol) acrylate)
-Plgel 5 μm MIXED-C
-PMMA10k-Mw = 10 kg/mol, PMMA15k-Mw = 15 kg/mol, PMMA50k-Mw = 50 kg/mol, and PMMA350k-Mw = 350 kg/mol; Mw/Mn < 3
+polybutadiene
 Mn,NMR(MI-PCL)
 PMMA/PEO
 alkanes
@@ -20,7 +17,6 @@ poly(ether sulfone)
 poly(phenylenecarbonyl)s
 Poly(9,9-dialkylfluorene)s
 (PI)/polyvinylethylene
-2.3 × 103−4.4 × 103
 Epstein
 PS-b-poly(4-hydroxystyrene)-b-PMMA
 poly(BMI-per-BMI-per-BC7)
@@ -48,7 +44,6 @@ d-PMMA
 grafting
 poly(C6M)
 polyol
-MWs
 P3HT-b-PPCBM
 PS/PEO
 poly[2,5-bis(4-carboxylic phenyl)styrene]
@@ -105,7 +100,6 @@ poly(biphenoxyphosphazene)
 poly(2,6-dimethyl-1,4-phenylene ether)
 PEHMA
 polystyrene
-PNIPAm
 poly(phosphoric acid)
 P4:PC71BM
 HM-poly(N-isopropylacrylamides)
@@ -118,12 +112,10 @@ Poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate)
 SPU
 monolayers
 0.06–0.69
-o-dichlorobenzene
 HM-PEO
 Poly(ethylene glycol)
 bilayer
 Polybenzoxazines
-TSK GELs; GMHHR-M
 dialkylpolysilanes
 poly(1,5-dioxepan-2-one)
 PCL-b-PTMC-b-PCL
@@ -132,7 +124,6 @@ polyether
 P(PFPA)-b-P(OEGA)
 thermosensitive/crystallizable
 Tetraaniline
-S-polyesters
 poly(ether ether ketones)
 poly(diketopyrollopyrole)
 PMA-b-PMA-b-PMA-b-PMA-b-PMA-b-PMA
@@ -144,25 +135,19 @@ transparence
 poly(BMI-alt-BC5)
 PEM
 PS)/poly(vinyl methyl ether
-with the asymmetry of τa,X significantly contributed from a large difference of glass transition temperatures of those components
 phenylene
-LC-7000
 PCzTTQx:PC71BM
 Polycaprolactone/polytrimethylene
 PS296-b-PAA41-b-PMMA236
 oligoethyleneglycol
 thicknesses
-D-MAA-11/A-tBCEMA-5.2
 poly(binaphthoxyphospaze)
-ZIF-8
 fluorene
 Mns
 PMA-b-POEGA
-PEG, A
 HM-PEOs
 PS/poly(methyl methacrylate)
 poly(9,9-dihexylfluorene)
-χTHF–P3HT = 1.04 ± 0.04
 polythioketal
 poly(diphenoxyphosphazene)
 MMA/BA
@@ -191,7 +176,6 @@ polycarbonate
 stereoregularity
 LB
 PFMS
-around 20 to 1 in Figure 3 for pH 3
 PPEMC
 100 000
 BHJ
@@ -222,9 +206,8 @@ poly(BPVS-Flu)
 poly(l-lactide)
 poly(ether ether ketone)
 SAN
-polybutadiene
+(more
 PS-b-poly(4-vinylpyridine)
-from 46 °C for a PCL10 block, to 55 °C for a PCL80 block
 matrices
 poly(BPVS-DPA)
 Poly(cyclohexyl acrylate)
@@ -252,7 +235,6 @@ polyacrylates
 poly(MMA)
 poly(arylene ether nitrile)
 poly(MMI-alt-IB)
-hL = 25 nm
 poly(RMI-alt-BCm)s
 s-PPs
 Poly(N-methylglycine)
@@ -268,7 +250,7 @@ poly(ethylene terephtalate)
 P(R-2HB)
 PTEA2K-b-PAM60K
 perylene
-δP3HT = 14.8 ± 0.2 MPa1/2
+methacrylate
 PMA-b-PMA
 Polycarbonates
 poly(amic acid)
@@ -285,7 +267,6 @@ poly(oligoethylene glycol acrylate)
 Poly[(R)-2-hydroxybutyrate]
 Poly(ethylene oxide)
 nitroxides
-high-M
 BADGE/MY721/TEPA/(34 wt %)EMImTFSI
 PPOs
 PVOH
@@ -302,7 +283,6 @@ poly(cyclohexyl acrylate)
 poly(acrylonitrile/butyl acrylate)
 PS-b-PVP-b-PEO
 PDMAEMA
-Mn ∼ 82 700 g/mol, Mw/Mn ∼ 1.09
 poly(vinyl methyl ether)/polystyrene
 polybutadienes
 polystyrenes
@@ -313,7 +293,6 @@ alkyl
 PtBMA
 PPA/PEtG
 poly(phenylene oxides)
-7.8 mm i.d. × 300 mm
 nanopolyhedras
 P3:PC71BM
 PS-b-PEO
@@ -323,7 +302,6 @@ poly(DEGEA-co-oligo(ethylene glycol) acrylate)
 cis-Polyisoprene
 pNIPAm
 dodecyl
-1:1 PS:P3HT by weight
 polysilanes
 “nanowires”
 microdomains
@@ -332,7 +310,7 @@ poly(ether ether ketone)s
 microporosity
 ionomers
 PEO)/poly(methyl methacrylate
-polyurethanes
+polycarbonates
 PVP
 PVS
 PBCPS
@@ -349,7 +327,6 @@ comicelles
 UPy-functionalized
 Celite
 PS/PMMA
-Poly-1
 PMMA-type
 poly(3-alkylthiophene)s
 poly(methyl acrylate) radicals)
@@ -362,23 +339,20 @@ DPPCL
 LB-PBD
 polyaldehydes
 poly(propylene oxide)
-abbreviation PE-g-MAH
+bilayers
 polymer-to-nanoparticle
-Mn = 2.7 × 103 g mol−1
 poly(p-tert-butylstyrene)
 poly(butylene terephthalate)
 core–shell
 poly(vinyl acetate))
-P(S-2HB)
+(Tosoh
 “strong”
-epoxy/ionic
 fullerenes
 butadiene
 poly(benzyl methacrylate)
 trimer
 PS/poly(phenylene oxide)
 (PAA)/PS
-chromone-3-carboxaldehyde
 UHMWPE
 poly(N-isopropylacrysamide)/d8-1-ethyl-3-methylimidazolium
 poly(N-(n-propyl)glycine)x-block-poly(N-methylglycine)y
@@ -395,7 +369,6 @@ PS/PMVE
 7K
 poly(vinylmethyl siloxane)
 PMMA350k
-892 kg/mol PS
 QDs
 poly(hydroxybutyrate)
 PtBS
@@ -407,7 +380,6 @@ p-arylene
 cl-PFMSA2
 PS-b-PMMA
 poly(nonamethylene tartrate-co-nonamethylene succinate)
-n-hexane/high
 PiPrOx
 PVP-b-PEO
 coil
@@ -420,7 +392,6 @@ PS-b-PVP
 PPEES
 Eu:YVO4/PTEA2K-b-PAM60K
 Langmuir−Blodgett
-2.4 and 4 kg/mol
 PMMA/c-MWNTs
 h-PEO/d-PMMA
 perfluoropolymers
@@ -432,7 +403,6 @@ PEDOT:PSS
 PDI
 methylenes
 bromoester
-D-labeled
 poly(arylenecarbonyl)s
 fluoromonomers
 Polylactide
@@ -440,18 +410,15 @@ poly(ether imides)
 Polyphosphazene
 polypropylenes
 Poly(ether sulfone)s
-Mn ∼ 43 000 g/mol, Mw/Mn ∼ 1.15
 PAN
 PMMA/poly(vinylidene fluoride)
 polyisocyanate
 poly(3-(4-dodecylphenyl)thiophene)
 poly(MMI-alt-BCm)s
 polyaspartimide
-h-protonated; d-deuterated
 poly(VDF-alt-TFP)
 poly[n-dodecyl-(R)-2-methyl
 PS/P3HT
-6264 K
 PVAc
 poly(dialkylfluorene)
 e.g., PS-b-PMMA
@@ -461,7 +428,7 @@ tacticities
 poly(2-ethylhexyl methacrylate)
 lattices
 poly(pentafluorophenyl acrylate)
-PS2.4k-Mw = 2.4 kg/mol, PS4k-Mw = 4 kg/mol, PS48k-Mw = 48 kg/mol, PS390k-Mw = 390 kg/mol, and PS2000k-Mw = 2 000 kg/mol; Mw/Mn < 1.1
+PNIPAm
 h-PMMA
 Macromonomers
 thermoset
@@ -487,6 +454,7 @@ PP
 PIs
 poly(ethylene oxide)
 PT
+polyurethanes
 poly(aryne-alt-carbon monoxide)s
 PB
 poly(VDF-co-MAF)
@@ -494,10 +462,7 @@ diphenylene
 poly(MMI-alt-CA6)
 polystyrenesulfonate
 incompatibility
-χTHF–P3HT = 1.85
 polyvinylethylene
-Mn = 108 kg/mol, 99.7% hydrolyzed
-bilayers
 subphase
 P3
 poly(N-(n-propyl)glycine)
@@ -517,11 +482,9 @@ P(S-r-VP)
 TRPs
 HM-poly(ethylene oxides)
 MWNTs
-−65 and −15 °C for PCL and PTMC of Mn = 8000 g/mol, respectively
 poly(2-hydroxybutyrate)
 PDIs
 poly(3-hexylthiophene-2,5-diyl)
-(more
 poly(styrene-alt-maleimide)
 ∼2.5
 poly(p-phenylene-ethynylene)
@@ -530,7 +493,6 @@ HM
 elastomer
 fluoroelastomers
 PEs
-Mn ∼ 1300 Da, PDI = 1.10
 PM-4X
 36.5%
 PS/PVME
@@ -548,12 +510,11 @@ monothiophene
 diol
 P(CL-co-VSC)4.2%
 PEO
-92.5 wt %
 vol/vol
 PEG
 BCP
 rodlike
-(Tosoh
+P(S-2HB)
 TSK
 poly(ether−imide)
 poly(propylene glycol)
@@ -592,22 +553,15 @@ PS/poly(methacrylic acid)
 CeO2/PTEA5K-b-PAM30K
 BCPs
 oligofluorene
-N/Ne,0
 poly[(R)-3-hydroxybutyrate]
 100–500 000
 Polyphosphazenes
-Y-shaped
 PLA
 poly(BC4)
 PMMA/MWNT
 poly(trimethylammonium ethylacrylate)-b-poly(acrylamide)
 polysaccharide
-D-MAA-11/A-CCEMA-4.6
-pBnMA/IL
-PEO-1000/PMMA
-Mw = 18 kg/mol and 188.6 kg/mol
 PCL80-b-PTMC80-b-PCL80
-Đ = 1.06
 PEO/poly(vinyl acetate)
 poly(BzA-co-IBVE)
 poly(N-alkylglycine)s
@@ -617,7 +571,7 @@ PPC
 PCL-co-PTMC
 PPG
 poly(2-vinylpyridine)
-Melles Griot, 25-LHP-928-249, λ = 632.8 nm
+oligomer
 (co)polyacrylates
 PE-g-MAH
 (PtBA)/PS
@@ -662,7 +616,6 @@ polypeptoid
 copolymer-functionalized
 poly(trimethylene carbonate)
 Polybutadiene
-0.24 g
 phenylene-ethynylene
 poly(N,N-dimethylacrylamide)
 poly(alkinyl-p-xylylene-co-p-xylylene)
@@ -718,23 +671,18 @@ solutes
 poly(VDF-co-1234yf)
 PCL40-b-PTMC40
 poly(butylene tartrate).3
-polycarbonates
-CF3–poly(VDF-co-M)–CF3
+MWs
 PCL-b-TMC
-low-M
 heterojunction
 poly(ether ether sulfone)s
-d-PEO
 Poly[(S)-2-hydroxybutyrate]
 polyketone
 poly(mPOs)
 modifiers
-GN0 ≅ 3.1 × 105 Pa
 PGMA
 poly(N-n-propylacrylamide)
 PBT
 polyisoprene
-10 kg/mol
 poly(p-phenylenevinylene)
 Polystyrene
 poly(cadmium acrylate)
@@ -752,13 +700,11 @@ PBI
 air−water
 p-xylene
 Kapton
-oligomer
 PVE
 MAH-functionalized
 PEHMA-D/PEHMA-A
 kDa
 PS54K
-methacrylate
 poly(l-lactic acid)
 PBd
 Davidock
@@ -770,7 +716,6 @@ poly(DCPVS)
 MWNT
 poly(vinyl chloride)
 poly(nonamethylene l-tartrate)
-d-PEO/h-PMMA
 poly(CPVS)
 polythiol
 methylene
@@ -778,13 +723,11 @@ coronae
 poly(vinyltrimethylsilane)
 PS/poly(2-vinylpyridine)
 PS48k
-PMMA/clay
 o-arylene
 PVMS
 Brushes
 poly(4-hydroxystyrene-stat-4-methoxystyrene)
 JSPS
-Mn(calc) = 6900 g/mol
 PMA
 pHeBiB
 PDEGA/P(DEGA-co-OEGA)
@@ -798,7 +741,6 @@ poly(styrene-copolymer-hydroxyethyl methacrylate-2-bromoisobutyryl bromide)
 Poly(phenylene ether)s
 polyester
 polycarbodiimide
-see Table 1; for comparison linear Tg for PDMS: 145−150 K, depending on crystalline fraction
 poly(methyl-n-propylsilane)
 NIPAAm
 polyethylenimine
@@ -823,7 +765,6 @@ PheMMA
 1-Methyleneindane
 poly(aryl ethers)
 poly(vinyl acetate)
-χTHF–P3HT = 0.35
 poly(PVS)-b-poly(NVC)
 poly(aryl ether sulfones)
 brittleness
@@ -835,7 +776,6 @@ poly(butylene succinate-co-butylene malate)2
 PVDF-g-poly(M)
 polyacrylonitrile
 poly(RMI)s
-PS/P3HT/o-xylene
 thermoplasticity
 PS/PMAA
 Kuhn
@@ -856,7 +796,6 @@ PEMs
 CNT
 Polyaniline
 P1
-PDMS, Sylgard 184 with 5:1 mix ratio, vacuum-cured at 80 °C for 24 h
 poly(sorbityl adipate)
 PtBA
 poly(o-arylene)s
