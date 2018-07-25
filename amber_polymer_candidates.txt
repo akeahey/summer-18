@@ -1,0 +1,1633 @@
+nanocompositesiii
+MPNCs
+polypeptidesELPs
+3-glycidoxypropyltrimethoxysilaneAcrylamidesEHOMO = −4.70 eV, Eg = 1.90 eV[Me2Si(η5-Me4C5)(NtBu)]TiCl2dithranolAgTFA
+gyrationRg
+PMEPLPMDApyromellitic dianhydride
+PHEPEpoly(N-(2-hydroxyethyl)prop-2-enamide)
+poly(ethoxydi(ethylene glycol) acrylate)Plgel 5 μm MIXED-CPMMA10k-Mw = 10 kg/mol, PMMA15k-Mw = 15 kg/mol, PMMA50k-Mw = 50 kg/mol, and PMMA350k-Mw = 350 kg/mol; Mw/Mn < 3Mn,NMR(MI-PCL)PMMA/PEOalkanescopoly(ether ketone)spoly(ether sulfone)poly(phenylenecarbonyl)sPoly(9,9-dialkylfluorene)s(PI)/polyvinylethylene2.3 × 103−4.4 × 103EpsteinPS-b-poly(4-hydroxystyrene)-b-PMMApoly(BMI-per-BMI-per-BC7)Poly(3-hexylthiophene)P3HT
+poly(15N-hexyl-N-phenylcarbodiimide)Poly-1
+poly(EMI-alt-BC5)PC70BMPC71BMphenyl-C71-butyric acid methyl ester
+poly(glycidyl methacrylate)PGMA
+poly(BPVS-Br)poly(n-hexyl isocyanate)PHIC
+polyacrylamidePAM
+SDS-PAGE
+HPAM
+molarCL-co-VSC
+MMD
+mol %
+MAPi.e., PMAPOSS chains
+mobile amorphous phase
+poly(ferrocenylmethylphenylsilane)PEC/PPAAFL-PAAc
+poly(amic acid)
+DB/PAA
+PAA/PEO
+poly(vinyl alcohol)PVA
+PMMAA-b-B
+it-PMMA
+ppm
+BA-co-MMA
+HEXPMMA
+iii
+S-b-MMA
+S-ran-MMA
+a-PMMA
+PMMA-NPs
+poly(methyl methacrylate)
+s-PMMA
+10 kg/mol
+hPMMA
+χPS–PMMA
+spacerPolysulfonePDLLApoly(d,l-lactide)
+polybenzoxazined-PMMADeuterated poly(methyl methacrylate)
+S-ran-MMA
+graftingBoc
+Gr
+CB-MWNT
+poly(C6M)polyolROCOP
+PPy-POB
+MWsMolecular weights
+P3HT-b-PPCBMPS/PEOpoly[2,5-bis(4-carboxylic phenyl)styrene]PBCPS
+FTS7000PolyferrocenylsilaneEu:YVO4/PTEA5K-b-PAM30KpolythiophenePTh-CE
+PThs
+polyethylene-block-poly(N,N-dimethylacrylamide)PAHpoly(allylamine hydrochloride)
+poly(lactic-co-glycolic acid)poly(phenylene)sPCLFigure 1b
+PS2
+CH2CO
+column 2
+or P2VP
+Poly(ε-caprolactone)
+poly(tert-butylstyrene)PTBS
+poly(acrylic acid)PTHF-b-PAA
+PAA-b-PS
+PAAc
+poly(ferrocenylsilane)GraftsPEB2P(CL-co-VSC)8.7%polyelectrolytesPCL-b-PTMCPoly(acrylonitrile)PCL-b-TMC-b-PCLPC-DTQxpoly{N-[1-(2′-ethylhexyl)-3-ethylheptanyl]carbazole-2,7-diyl-alt-5,8-dithien-2-yl-2,3-diphenylquinoxaline-5′,5′′-diyl}
+d-PEOx/h-PEOy/h-PMMA(1-x-y)methylcellulosepoly(substituted methylene)PM-2PM-3poly[(S)-3-hydroxyvalerate]PM-4dewetsPolypeptoids55%−60%celluloseBA-co-MMA
+CAB
+HPC
+PS/polybutadienepoly(mPO)PPCBMpendant fullerenes (PC61BM) as acceptor block
+PEDOTPoly(ethylenedioxythiophene)
+oxymethyleneequimolarityPB/PEOrubbersEPR
+poly(2-methoxyaniline-5-phosphonic acid)PMAP
+PS-b-P2VPpolystyrene-b-poly-2-vinylpyridine
+macromonomersMMs
+poly(meta-phenylene oxides)polybenzimidazolesPBIs
+Py-PBIs
+acceptorD–A type
+PPCBM
+acrylatesPS-b-PnAMA
+LCPs
+poly(vinylsulfonium salts)polymethylPMS
+PMHS
+PFS-b-PMVS
+poly(EHMI-alt-BC5)poly(biphenoxyphosphazene)poly(2,6-dimethyl-1,4-phenylene ether)PEHMApolystyrenesPSB−PB
+PEDOT:PSS
+SBS
+PS-b-PI
+PS-
+HIPS
+PS–PPO
+PDAC/PSS
+l-PCL-b-PS
+l-lactide
+PS/PαMS
+PS-b-PnPMA
+MPL
+PSL
+aPS
+SLLACOD
+PS/PI
+PCL/PS
+PS/PnBMA
+SPS
+PAA-b-PS
+PS-r-PMMA
+PEP-b-PS
+hyCPS
+SMS
+sPS
+PI–PS
+l-PS/g-PPO
+PCL-b-PS
+PS-b-PCL
+fPS
+PS/P4MS
+PS-b-PEO
+PS-PEO
+PCHE
+PS/PVMEH-bonds
+PS-D-PαMS
+SEOS
+PSt
+Tosoh
+PS-Az 1
+SEO
+PS-b-QP2VP
+CPS
+SPS4000
+hbPS
+PST−O
+St-Fl
+PS-b-P2VP
+PLLA-b-PS
+PNIPAmmicro differential scanning calorimeter
+poly(phosphoric acid)P4:PC71BMHM-poly(N-isopropylacrylamides)BADGE/Tetrad-X/(34 wt %)TEPA/BMImTFSI)PEG-SHpoly(2-alkyl-2-oxazolines)hydrophobicHM-PiPrOx
+HEUR
+HM-PEO
+poly(BPVS-An)Poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate)SPUsegmented polyurethane
+monolayers0.06–0.69o-dichlorobenzeneODCB
+HM-PEOhydrophobically modified poly(ethylene oxide)
+Poly(ethylene glycol)PEGMEA
+bilayerPolybenzoxazinesTSK GELs; GMHHR-Mdialkylpolysilanespoly(1,5-dioxepan-2-one)PCL-b-PTMC-b-PCLpolyetherisoprene
+PFPE
+mPEK
+φPFSP(PFPA)-b-P(OEGA)thermosensitive/crystallizableTetraanilineS-polyesterspoly(ether ether ketones)poly(diketopyrollopyrole)PMA-b-PMA-b-PMA-b-PMA-b-PMA-b-PMAchitosanPDEGApoly(diethylene glycol ethyl ether acrylate)
+PS-b-PIpolystyrene-b-polyisoprene
+1,4-polyisoprenetransparencepoly(BMI-alt-BC5)PEMpolyelectrolyte multilayer
+PS)/poly(vinyl methyl etherwith the asymmetry of τa,X significantly contributed from a large difference of glass transition temperatures of those componentsphenylenePPOMBA
+PPEES
+MEH-PPV
+PS–PPO
+PPVs
+PPP
+PPM
+PDOP-TP
+PBTP
+PDs
+PPOs
+silane
+PPS
+HPPS
+PPSA
+hypPPV
+l-PS/g-PPO
+PCPPO
+PPV
+PPEs
+LPPS
+3,6-POC-TP
+PDOF-OD
+PmPVPDMA
+mPPEs
+PPE
+LC-7000PCzTTQx:PC71BMPolycaprolactone/polytrimethylenePS296-b-PAA41-b-PMMA236oligoethyleneglycolthicknessesD-MAA-11/A-tBCEMA-5.2poly(binaphthoxyphospaze)ZIF-8fluorenei-PF
+Flu
+PFE
+PFTBT
+PDHF
+silane
+PIFs
+PSiFDBT
+POF
+PFs
+SBF
+PF
+PFEs
+PFT
+PSeN
+TBSBF
+PDOF-OD
+PFB
+fluorescence profile of both compounds greatly resembles the well-structured emission of pol
+MnsPMA-b-POEGAPEG, AHM-PEOsPS/poly(methyl methacrylate)poly(9,9-dihexylfluorene)χTHF–P3HT = 1.04 ± 0.04polythioketalpoly(diphenoxyphosphazene)MMA/BAPDMAq-PDMAEMA
+pH 2
+poly{(m-phenylenevinylene)-co-[(2,5-dioctyloxy-p-phenylene)vinylene]}
+poly(allylamine hydrochloride)PAH
+polyethylenePE-b-PCL
+PCL/PECl
+termed pPEtBMA
+LLDPE
+PE-PB/CNT
+UHMWPE
+LCB-mPEwIPCs
+PEs
+PE
+ldPE
+CPE
+PE-Fe
+LDPE
+PE-b-PLLA
+hPE
+dPE
+cis-polyisoprenePCL/MDI/HQEEILsionic liquids
+PC61BMphenyl-C61-butyric acid methyl ester
+PPCBM
+LMpoly(ether ketone)poly(ethylene imine)LPEI
+LSlight scattering
+Poly(l-lactide)PLLA
+poly(NVC)polyamidesHBPAs
+P3HT-b-PSOHpoly(PVS)ssPSsPSB−PB
+sPSB
+syndiotactic polystyrene
+poly(N-isopropylacrylamide)PNIPAM
+comblikeMDI−HQEEchromotographypolycarbonateBPA-PC
+PC
+TMPC
+ROCOP
+PC-Bs
+stereoregularityLBLangmuir−Blodgett
+PFMSpoly(ferrocenylmethylsilane)
+around 20 to 1 in Figure 3 for pH 3PPEMC100 000BHJbulk heterojunction
+non-polymer-coatedpoly(nonamethylene dl-malate)“fragile”polycaprolactonePE-b-PCL
+PCLs
+PCL−PEG
+wettabilitynanodomainspoly(amic acid)spoly(phthalaldehyde)PPA
+chromatographCC
+GCMS
+GPC-VIS
+GC-MS
+RALLS−SEC
+GPEC
+SEC
+Py−GC−MS
+GPC
+AQSEC
+HPLC
+GPC-MALLS
+Py-GC/MS
+SFC
+HT-GPC
+fillersspacerscopolypeptoidEthylene-co-propyleneEPM
+polypyrrolePPy
+PPy-POB
+PPOpoly(2,6-dimethyl-1,4-phenylene oxide)
+P(PFPA)-b-P(OEG-A)poly(viny1 acetate)PBDTC-TT1poly(N,N-diethylacrylamide)PDEAAM
+PDADMACPoly(diallyldimethyl ammonium chloride)
+MMT/PVOHPS3.7K/PCLPoly(ferrocenylmethylsilane)poly(BPVS-Flu)poly(l-lactide)SLLACOD
+PLLA−PEG
+PE-b-PLLA
+poly(ether ether ketone)SANstyrene/acrylonitrile copolymer
+polybutadienesPSB−PB
+SBS
+PBds
+PBd
+CR-PBD
+PB−P2VP
+LB-PBD
+PB-b-PEO
+PS-b-poly(4-vinylpyridine)PS-b-P4VP
+from 46 °C for a PCL10 block, to 55 °C for a PCL80 blockmatricespoly(BPVS-DPA)Poly(cyclohexyl acrylate)PSOHtacticitypoly(ethylene terephthalate)PET
+laponitePI/PtBSPCL80-b-PTMC80PTEA11K-b-PAM30Kpoly(VDF-co-PMVE)16.5 mmol
+PTFEpolytetrafluoroethylene
+MMAO-3Apoly(ethylene oxide)/poly(methyl methacrylate)PEO/PMMA
+polysemiquinonePCzTTPz:PC71BMmisciblemacroinitiatorsP3HTPoly(3-hexylthiophene)
+PS−SO3−
+run 2
+PTMSPpoly(trimethylsilyl-1-propyne)
+poly(styrene)PS-b-PMMA
+PS-b-POTI
+PS–PDMS
+isoprene
+PDMSiPDMS
+Figure 4a
+LPDMS
+poly(dimethylsiloxane)
+poly(ε-caprolactone)PVC/PCL
+l-PCL-b-PS
+PCL-b-PEO
+PCL/PECl
+PCL/PS
+PCL-b-PS
+PS-b-PCL
+pa-PCL
+polyacrylatespoly(MMA)poly(arylene ether nitrile)poly(MMI-alt-IB)hL = 25 nmpoly(RMI-alt-BCm)ss-PPsPoly(N-methylglycine)ITO/PEDOT:PSS/polymers:PC71BMpoly(VDF-co-HFP)poly(lactide)poly(VDF-co-TrFE)poly(MMI-alt-CA5)poly(styrene-co-2,3,4,5,6-pentafluorostyrene)poly(2-hydroxybutyric acid)polysarcosinePSar
+poly(ethylene terephtalate)P(R-2HB)PTEA2K-b-PAM60KperyleneδP3HT = 14.8 ± 0.2 MPa1/2PMA-b-PMAPolycarbonatespoly(amic acid)PAA
+PASE
+HPAA
+polyacetalpolyimidecoPIs
+PIM-PI
+HAB
+AcPIs
+PSPIs
+PSPI
+SPIs
+SPI
+PI-ES
+HPIs
+nanotubesCNTs
+SWCNT
+MWNT
+SWNTs
+MWCNTs
+FWNTs
+poly(butylene terephtalate)precipitantPEO/PVAcPEO/poly(vinyl acetate)
+poly(S-vinyl sulfide)poly(M)thiophenePEDOT:PSS
+P2
+P3PhT
+POPT
+HT-P3AOTs
+PS-b-POTI
+P3AOT
+P3AT
+P3EPT
+3HT
+rr-P3HT
+PEDOT
+BDT
+PBTP
+PT34bT
+silane
+P3HT:PCBM
+PBDTTT
+P3PyT
+POTI
+PTh-CE
+P3HT
+P3HpT
+P3OT
+PFT
+PThs
+HT-P3ATs
+P3ATs
+P3ATTs
+PAT
+PTs
+P(O(*))
+HT-P3AOT
+P1
+PDHBT
+PT
+PTTs
+poly(oligoethylene glycol acrylate)P(OEGA)
+Poly[(R)-2-hydroxybutyrate]Poly(ethylene oxide)PEO400
+PEO
+nitroxideshigh-MBADGE/MY721/TEPA/(34 wt %)EMImTFSIPPOspoly(phenylene oxides)
+PVOHPoly(vinyl alcohol)
+PFTTQx:PC71BMstereocomplexsc-PLA
+SC
+PS-b-PDMSMWNT/PMMAcompatibilizersmacroinitiatorPEGBr
+exomethyleneNIPAMC60
+cyano groups
+N–H
+N3
+polycaprolactone, PCLpoly(cyclohexyl acrylate)poly(acrylonitrile/butyl acrylate)PS-b-PVP-b-PEOPDMAEMAq-PDMAEMA
+pH 2
+poly(2-(dimethylamino)ethyl methacrylate)
+Mn ∼ 82 700 g/mol, Mw/Mn ∼ 1.09poly(vinyl methyl ether)/polystyrenepolybutadienesPBds
+polystyrenesPEDOT:PSS
+PDAC/PSS
+CPS
+PST−O
+silicateTEOS
+PFS-b-PPpoly(2-methoxyaniline-5-sulfonic acid)PMAS
+alkylLPAs
+PAkOx
+PAO’s
+P3AT
+PPFEMA
+HT-P3ATs
+P3ATs
+P3ATTs
+PAT
+P3ATe
+MI
+PAOx
+PS-b-PnAMA
+PAO
+PtBMApoly(tert-butyl methacrylate)
+PPA/PEtGpoly(phenylene oxides)PPOs
+7.8 mm i.d. × 300 mmnanopolyhedrasP3:PC71BMPS-b-PEOpolystyrene-block-poly(ethylene oxide)
+poly[(R)-3-hydroxyvalerate]poly(NVC)-b-poly(BPVS)poly(DEGEA-co-oligo(ethylene glycol) acrylate)cis-PolyisoprenepNIPAm3.0 mmol
+poly(cis-cyclooctene)
+dodecylSDS-PAGE
+P3DDTV
+P1′
+SDS
+1c
+M3
+1:1 PS:P3HT by weightpolysilanes“nanowires”microdomainsPEO−DME)/poly(methyl methacrylatepoly(ether ether ketone)smicroporosityPIMs
+PIM
+ionomersImBr
+PEO)/poly(methyl methacrylatepolyurethanesAIPUs
+pHPUs
+PVPA-b-B
+wPVPh
+i.e., log tan δ vs log aTω plots
+pH 2
+polyvinylpyrrolidone
+PVP–DCM
+PVSpoly(vinyl stearate)
+NVC
+PBCPSpoly[2,5-bis(4-carboxylic phenyl)styrene]
+poly(3-(4-octylphenyl)thiophene)POPT
+pNIPAMpolymeric solute−surface interactions, we explored the behavior of polyisopropylacrylamide
+electrospunCHCl3polyfluorenei-PF
+PFE
+PFs
+PFEs
+monodispersepolyethylenesLCB-mPEwIPCs
+PEs
+hydrophobicitypoly(BC5)comicellesUPy-functionalizedCelitePS/PMMAPoly-1poly(15N-hexyl-N-phenylcarbodiimide)
+PMMA-typepoly(3-alkylthiophene)sHT-P3ATs
+P3ATs
+poly(methyl acrylate) radicals)poly(fluorene)ssilane
+poly(vinyl methyl ether)PVME
+PS/PVMEH-bonds
+P2ClS/PVME
+PVDFaminoethanethiol
+TTTT
+VDF−TrFE
+ITOindium tin oxide
+PEO/poly(lactide)DPPCLLB-PBDlower barrier 1,4-polybutadiene
+polyaldehydespoly(propylene oxide)abbreviation PE-g-MAHpolymer-to-nanoparticleMn = 2.7 × 103 g mol−1poly(p-tert-butylstyrene)poly(butylene terephthalate)core–shellpoly(vinyl acetate))P(S-2HB)R-2HB
+“strong”epoxy/ionicfullerenesPPCBM
+butadienesPSB−PB
+SBS
+PBds
+P(S-b-B)
+SBR
+PBd
+CR-PBD
+ABS
+PB−P2VP
+sPS−PB
+SrB
+LB-PBD
+SB
+PS-PB
+BD
+PB-b-PEO
+PLA–PB
+PS–PB
+poly(benzyl methacrylate)pBnMA
+trimerPS/poly(phenylene oxide)(PAA)/PSchromone-3-carboxaldehydeUHMWPEultrahigh molecular weight polyethylene
+poly(N-isopropylacrysamide)/d8-1-ethyl-3-methylimidazoliumpoly(N-(n-propyl)glycine)x-block-poly(N-methylglycine)yPEO0.25/PMMA0.75polyethylene(s)PtBA/PSpoly(tert-butyl methacrylate)PtBMA
+p-phenylenePPP
+silane
+PPV
+PmPVPDMA
+oligomersHT
+poly(VDF-co-M)chitosan-graft-poly(N-isopropylacrylamide)PS/PMVE1,2-dichloroethane/hexane7Kpoly(vinylmethyl siloxane)PVMS
+PMMA350k892 kg/mol PSQDsquantum dots
+poly(hydroxybutyrate)PHB
+PtBSpoly(4-tert-butylstyrene)
+silicateshexafluoropropyleneHFPO
+polyacrylamidesp-arylene10Ktop
+cl-PFMSA2PS-b-PMMApoly(styrene)-block-poly(methyl methacrylate)
+χPS–PMMA
+poly(nonamethylene tartrate-co-nonamethylene succinate)n-hexane/highPiPrOxtop
+Glycidyl methacrylate
+PVP-b-PEOcoilnonpolarUltrahydrogelTgsPoly(p-xylylene)PTB7:PC70BMPS-b-PVPPPEESpoly(1,4-phenylene ether−ether−sulfone)
+Eu:YVO4/PTEA2K-b-PAM60KLangmuir−BlodgettLB
+2.4 and 4 kg/molPMMA/c-MWNTsh-PEO/d-PMMAperfluoropolymers(ethylenePEG-b-PHMA
+PEGsP(NIPAM)
+OEGMA
+PEO400
+PEG–LA–DA
+PEVEP
+PEG–PGA
+OEG
+PET
+MPEG
+PEG-b-P6CN
+PEN
+l-lactide
+PCL-b-PEO
+PEDOT
+thiol PEG
+PEB
+PLLA−PEG
+PEG-b-PEMA
+POEGMA
+Zn–EMAA
+OEGA
+PEVA
+PEGMEA
+PEP-b-PS
+PEGA
+PEO−DME
+CPEOs
+PLA−PEG
+PEG−PDLA
+r-PEG-α-CD
+DEGMA
+PEOES
+P(E-alt-E)TA-PEG
+PS-b-PEO
+PEO−RAFT
+PEG
+HM-PEO
+PS-PEO
+PEGMA
+PCL−PEG
+SEOS
+OEGs
+LPEI
+SEO
+PEO/PMMA
+PEO
+POEGA
+PB-b-PEO
+Tetra-PEG
+PEH/PEB
+PEP
+PEH
+PEO-
+PEF
+PEG600
+PEG-b-PGlu
+poly[(R)-lactide]PRLA
+ethylene-typepolypropylenesPP
+it-PP
+PP
+iPP/EPR
+BOPP
+LCB iPP
+PPG
+hhPP
+IPC
+aPP
+PEDOT:PSSpoly(3,4-ethylenedioxythiophene):polystyrenesulfonate
+PDIpolydispersity index
+methylenesbromoesterD-labeledpoly(arylenecarbonyl)sfluoromonomersPolylactidePLAsAcNbccHHPP
+poly(ether imides)PolyphosphazenepolypropylenesPoly(ether sulfone)sMn ∼ 43 000 g/mol, Mw/Mn ∼ 1.15PANPAN−PDMS
+polyacrylonitrile
+PMMA/poly(vinylidene fluoride)polyisocyanatepoly(3-(4-dodecylphenyl)thiophene)poly(MMI-alt-BCm)spolyaspartimideh-protonated; d-deuteratedpoly(VDF-alt-TFP)poly[n-dodecyl-(R)-2-methylPS/P3HT6264 KPVAcor PVAc
+poly(vinyl acetate)
+poly(dialkylfluorene)e.g., PS-b-PMMApolyurethaneAIPUs
+PU
+pHPU
+PUNB
+SPU
+PUU
+WBPU
+pHPUs
+PMMA9K/PEO6Ktacticitiespoly(2-ethylhexyl methacrylate)latticespoly(pentafluorophenyl acrylate)P(PFPA)
+PS2.4k-Mw = 2.4 kg/mol, PS4k-Mw = 4 kg/mol, PS48k-Mw = 48 kg/mol, PS390k-Mw = 390 kg/mol, and PS2000k-Mw = 2 000 kg/mol; Mw/Mn < 1.1h-PMMAMacromonomersthermosetnoncrystallinePS390khomopolystyrenePVP-b-PSRgradius of gyration
+poly(acryloyl carbonate)1,4-polybutadienesPSB−PB
+CR-PBD
+LB-PBD
+CopolyimidepolyacetalsP2Poly[2,5-thiophene-alt-5′,5′-(2″,5″-bis(3′,4′-dihexylthien-2′-yl)-1″,3″,4″-thiadiazole)]
+i.e., log tan δ vs log aTω plots
+PBA/P2VP
+SV
+FluoropolymersP3HT-b-PPC61BMpolystyrene/poly(vinylpoly(PVS)NVC
+Blendspoly(BPVS-b-NVC)poly(phenylene sulphide)PPS
+PSd-PS
+sPSB−PB
+4T
+i.e., PS-420K
+PS-RAFT
+sPSB
+HMW-PSO
+BHPS
+E/B
+S-b-MMA
+SV
+i.e., PCL
+PS-b-P4VP
+wPSOx
+c-PS
+DCH-Ru
+SPBC-Bz
+SPS4000
+i.e., the curing temperature
+O-r-M
+PS-b-PnAMA
+h-PS
+χPS–PMMA
+polymerization
+PPPR1
+PR2
+cPPA
+polypropylene
+PP-g-MA
+FPPDO
+PIscomonomer content distribution
+poly(ethylene oxide)l-lactide
+PCL-b-PEO
+PEO−DME
+PS-b-PEO
+PEO−RAFT
+HM-PEO
+PS-PEO
+SEOS
+SEO
+PEO/PMMA
+PB-b-PEO
+PEO-
+PTPTMO-32.5
+PTHF-b-PAA
+PTHF-b-PMA
+poly(thiophene)
+poly(aryne-alt-carbon monoxide)sPBsPSB−PB
+BA-MMAPVCap
+χPLA–PB
+sPSB
+multiangle light scattering
+BA-co-MMA
+FIF
+fPB
+PBA/P2VP
+i.e., PCL
+Py-PBI
+one phase
+poly(VDF-co-MAF)diphenylenePDOF-OD
+poly(MMI-alt-CA6)polystyrenesulfonatePEDOT:PSS
+PDAC/PSS
+incompatibilityχTHF–P3HT = 1.85polyvinylethylenePVE
+Mn = 108 kg/mol, 99.7% hydrolyzedbilayerssubphaseP3Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,1,3-benzoselenadiazole-4,7-diyl)]
+S*
+PS−SO3−
+run 2
+poly(N-(n-propyl)glycine)dextranviscositiesP44T
+Tg-P4VP
+Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2-(2-ethylhexyl)-2H-benzotriazole-4,7-diyl)]
+or P2VP
+P5Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,3-dimethylquinoxaline-5,8-diyl)]
+CR-PBDchemically realistic 1,4-polybutadiene
+pBnMApoly(benzyl methacrylate)
+analoguespolyolefinsiloxanePBSsSmC*OLEDs
+PAN−PDMS
+CPDMSs
+TMDS
+BAPTMDS
+PEOS
+PS–PDMS
+α,ω-PDMS
+MTSM
+Pt[dvs]
+PDMS-EO
+PMHS
+TCLP
+DCLP
+PDMS/PEMS
+PVMS
+PMPS
+PDMSeNiPAm
+PDMS
+PFS-b-PMVS
+Poly(ethylene-1,2-dioxy-thiophene)/poly(stylene surfonic acid)P3PhTpoly(3-(4′-(3′′,7′′-dimethyloctoxy)phenyl)thiophene)
+JanusP(S-r-VP)TRPsHM-poly(ethylene oxides)MWNTsSanchez–Lacombe equation of state
+polysoap
+−65 and −15 °C for PCL and PTMC of Mn = 8000 g/mol, respectivelypoly(2-hydroxybutyrate)PDIspolydisperse indices
+poly(3-hexylthiophene-2,5-diyl)(morepoly(styrene-alt-maleimide)∼2.5poly(p-phenylene-ethynylene)poly(3-hexylthiophene)rr-P3HT
+P3HT:PCBM
+HMHydrophobically end-modified
+elastomerTPE’s
+TPE
+PDMSeNiPAm
+fluoroelastomersPEspolyHIPEs
+polyethylenes
+Mn ∼ 1300 Da, PDI = 1.10PM-4X36.5%PS/PVMEpolystyrene with poly(vinyl methyl ether)
+polyestersUPs
+PPVE
+PSSpoly(styrenesulfonate)
+bithiophenePBTP
+PDHBT
+poly(methyl acrylate)PMA
+Somasif
+PTHF-b-PMA
+PS/PCLpoly(MMI-alt-BC6)PETpoly(ethylene terephthalate)
+nanodiamondspoly(ferrocenyldimethylsilane)PFDMS
+μ-SIFc
+poly[thienyl-substitutedmonothiophenediolPDO
+BDA
+DCE
+BINOL
+S-BINOL
+BDO
+Bio-PDO
+BDE
+P(CL-co-VSC)4.2%PEOPS–PEO
+wPEO
+Br-PEO-Br
+PEO-CTA
+PEO–
+fPEO
+C−H
+PEO-b-PBMA
+PEO4K
+PEG 4600
+d-PEO
+TcTa
+PEO/PAA
+PAA/PEO
+Poly(ethylene oxide)
+tPEO
+PEO/PVAc
+92.5 wt %vol/volPEGPEG-DSTY
+DMPEG
+PEG–LA
+tP-NC gels
+PEG-DMA
+tP-NC gel
+mf-PEG
+w/w
+ONS
+TNPEG
+poly(ethylene glycol)
+Ad
+TC-PEG
+THPEG
+PEGDADMAc
+PEGVS
+BCPBlock copolymers
+rodlike(TosohTSKpoly(ether−imide)HPEI
+poly(propylene glycol)poly(1-trimethylsilyl-1-propyne)PP-OMMT(PSF)/PVPpolydimethylsiloxaneCalibrationPLLA/PDLApoly(tert-butyl acrylate)PtBA
+PMMA−PtBA
+poly(tetrafluoroethylene)PI)/poly(vinylethyleneunderlayerPStpolystyrene
+polythiourethanePMMA/c-MWNTP(Spm)-b-P(OEGA)hexanediolradiiTg’sStereoregularitiespoly(N-methylglycine)poly(3-hexylthiophene)-block-PPCBMC60C60-PNIPAM,
+C60
+ICBA
+poly(VF2-co-HFP)poly(N-vinyl carbazole)poly(ether sulfone)sHM-poly(N-isopropylacrylamide)Poly(ferrocenylsilane-b-polyphosphazene)poly(arylene ether)sfullerenePPCBM
+poly(tetramethyl glycolide)PTMG
+PS54K/PCLpoly(vinyl stearate)PVS
+PS/poly(methacrylic acid)CeO2/PTEA5K-b-PAM30KBCPsblock copolymers
+oligofluoreneN/Ne,0poly[(R)-3-hydroxybutyrate]P[(R)-3HB]
+100–500 000PolyphosphazenesY-shapedPLAχPLA–PB
+poly(lactic acid)
+PLATC
+N-S
+fPLA
+PLA-TC
+N-s-S
+poly(BC4)PMMA/MWNTPoly(methyl methacrylate)/multiwalled carbon-nanotube
+poly(trimethylammonium ethylacrylate)-b-poly(acrylamide)polysaccharideD-MAA-11/A-CCEMA-4.6pBnMA/ILPEO-1000/PMMAMw = 18 kg/mol and 188.6 kg/molPCL80-b-PTMC80-b-PCL80Đ = 1.06PEO/poly(vinyl acetate)PEO/PVAc
+poly(BzA-co-IBVE)poly(N-alkylglycine)spoly(pMeOBzA-co-IBVE)o-xylenePPCpressure perturbation calorimetry
+PCL-co-PTMCPPGpolypropylene glycol
+poly(2-vinylpyridine)PB−P2VP
+PI-b-P2VP
+PS-b-QP2VP
+P2VP
+Melles Griot, 25-LHP-928-249, λ = 632.8 nm(co)polyacrylatesPE-g-MAH(PtBA)/PSpropylene-copolymerizedpoly(PVS)-b-poly(NVC)sPFTTPz:PC71BMPDLApoly(d-lactic acid)
+−S−(CH2)2−OHPPXpoly(ferrocenylmethylsilane)PFMS
+polybenzimidazolem-PBI
+PBI
+PBIs
+Py-PBIs
+poly(lactic acid)PLA
+MWDsmolecular weight distributions
+NsS169mWpoly(alkylthiophene)sPAT
+PEO/PMMApoly(ethylene oxide)/poly(methyl methacrylate)
+poly[(9,9-dihexylfluorene-2,7-diyl)-(1,4-phenylene)]poly(ethylene glycol)PEG-b-PHMA
+PEGsP(NIPAM)
+PEG–LA–DA
+PEG–PGA
+MPEG
+PEG-b-P6CN
+thiol PEG
+PLLA−PEG
+PEG-b-PEMA
+POEGMA
+PEGA
+PLA−PEG
+PEG−PDLA
+r-PEG-α-CD
+PEG
+PEGMA
+PCL−PEG
+Tetra-PEG
+PEG600
+PEG-b-PGlu
+polytetrafluoroethylenePTFE
+nanocrystalsPolycarbodiimidespoly(ethylene naphthalate)PEN
+PANIpolyaniline
+poly(BPVS-PTZ)poly(ethylene oxide)−dimethylPEO−DME
+poly(styrene-ran-acrylonitrile)PMMA/SAN
+Polypropylene78.6–95.0%poly(ferrocenyldihydrosilane)dispersityPDI
+Mn, PDI
+poly(styrene)-block-poly(methyl methacrylate)PS-b-PMMA
+1/SPMMA0(0)Poly(N-isopropylacrylamide)poly(2-hydroxybutanoic acid)xylenePCT
+PS-b-poly(tert-butyl acrylate)PtBMA-b-poly(glycidyl methacrylate)-b-PSpoly[(S)-lactide]PSLA
+PBrSpoly(4-bromostyrene)
+polypeptoidcopolymer-functionalizedpoly(trimethylene carbonate)PTMC
+HMW−PTMC
+PolybutadienesPS−PB
+0.24 gphenylene-ethynylenepoly(N,N-dimethylacrylamide)PDMAA
+poly(alkinyl-p-xylylene-co-p-xylylene)poly(dimethylsiloxane)PAN−PDMS
+PS–PDMS
+α,ω-PDMS
+PDMS/PEMS
+PDMSeNiPAm
+PDMS
+AnMAof1poly(o-chlorostyrene)/PVMEpoly(BPVS)TeflonHLC-8120polystyrene-block-poly(ethylene oxide)l-lactide
+PS-b-PEO
+thermoresponsivePLLAPoly(l-lactide)
+fPLLA
+one phase
+poly(2-ethyl-2-oxazolines)nanocompositetP-NC gels
+iii
+MPNCs
+NC gelsBdvol %
+NC
+nanoparticlesCNPs
+FPNs
+MNP
+MNPs
+PMMA-NPs
+IONP
+AuNPs
+NPs
+hydrogelspolycationsHPLChigh-performance liquid chromatography
+(ITO)/poly3,4-ethylenedioxythiopheneoligoethyleneP(OEGA)
+poly(methyl methacrylate)PVDF/PMMA
+PS-b-PMMA
+d-PMMA
+st-PMMA
+iPMMA
+PS-r-PMMA
+aPMMA
+SMS
+PMMA
+PEO/PMMA
+PFS-b-PMMAiso-PMMA
+PMMA−PtBA
+PMMA/SAN
+poly(BPVS-An-b-NVC)polycyclicPAHs
+polycationPolythiophenesPTs
+GPC-MALLSGel permation chromatography in combination with a multiangle laser-light scattering detector
+PS-FTCPEexPECs
+PEG-DSTY
+DMPEG
+PS–PEO
+PEG–LA
+tP-NC gels
+wPEO
+PEG-DMA
+termed pPEtBMA
+Br-PEO-Br
+PEO-CTA
+tP-NC gel
+PEO–
+fPEO
+polyHIPEs
+C−H
+20 mmol
+mf-PEG
+w/w
+PEO-b-PBMA
+PEO4K
+PEG 4600
+polyethylene
+ONS
+TNPEG
+d-PEO
+TcTa
+PEO/PAA
+3.5 mmol
+Ad
+PAA/PEO
+TC-PEG
+THPEG
+tPEO
+HDPE
+PEO/PVAc
+4.3 mmolCMT
+PEGDADMAc
+PEGVS
+pyreneCpy,s
+Py
+I4.06/(DPPCL – 1))PTMCpoly(trimethylene carbonate)
+PS/PVPPTEA5K-b-PAM30Kpoly(2-isopropyl-2-oxazolines)HM-PiPrOx
+PFDMSpoly(ferrocenyldimethylsilane)
+PFS-N3
+μ-SIFc
+P3HT:PCBMpoly(3-hexylthiophene):phenyl-C61-butyric acid methyl ester
+Poly(2-isopropyl-2-oxazoline)smonolayerSAM
+FOTCS
+backbonespoly(BzA-co-CEVE)microcapsulesPoly(ether ether sulfone)glycolPEG-b-PHMA
+PEGsP(NIPAM)
+OEGMA
+GP
+EG
+PEG–LA–DA
+PGA
+PEVEP
+PEG–PGA
+OEG
+MPEG
+PEG-b-P6CN
+EGDA
+thiol PEG
+PLLA−PEG
+PEG-b-PEMA
+DEG
+POEGMA
+OEGA
+PEGMEA
+PLGA
+PTMG
+PEGA
+PLA−PEG
+EGVGE
+PEG−PDLA
+P(OEGA)
+EGDMA
+r-PEG-α-CD
+DEGMA
+TEG
+PEG
+TEGDVE
+PEGMA
+PDEGA
+PPG
+PCL−PEG
+PBSG
+OEGs
+GA
+POEGA
+Tetra-PEG
+TGME
+EGA
+TMG
+DPGDB
+PEG600
+Iend
+PEG-b-PGlu
+BHMG
+indiumITO
+polytrimethylenearyleneFPAEOx
+PAVs
+FPAES
+PAE
+PAEs
+poly(vinylcaprolactam)hydrophilicityPPSpoly(phenylene sulphide)
+diolssolutespoly(VDF-co-1234yf)PCL40-b-PTMC40poly(butylene tartrate).3polycarbonatesPC-Bs
+CF3–poly(VDF-co-M)–CF3PCL-b-TMClow-MheterojunctionBHJ
+poly(ether ether sulfone)sd-PEOdeuterated PEO
+Poly[(S)-2-hydroxybutyrate]polyketonepoly(mPOs)modifiersGN0 ≅ 3.1 × 105 PaPGMApoly(glycidyl methacrylate)
+PMbG
+poly(N-n-propylacrylamide)PBTpolybenzothiazole
+polyisoprenePS-b-PI
+PFS-b-PI
+hI
+PI/PVE
+PIP
+PI/P4tBS
+PS/PI
+POTI
+PI–PS
+PI-b-P2VP
+10 kg/mol18 kg/mol, which is higher than the entanglement molecular weight of PMMA
+poly(p-phenylenevinylene)silane
+PolystyrenesPS−PB
+poly(cadmium acrylate)polyelectrolytemPEMsDox
+PEC
+PEM
+MSPB
+PSC
+wIPC’s
+PE-SURFs
+pBnMA/[C2mIm+][TFSA–]PolymetallocenePBDmerocyanine
+SPMMA0PBApolybutyl acrylate
+BA-co-MMA
+PBA/P2VP
+i.e., PCL
+one phase
+PIPIM-PI
+FIF
+SPBC-Bz
+propylene 1-hexene copolymers
+PBCPCBMbis-PCBM
+phenyl C61-butyric acid methyl ester
+polyketalsPBIpolybenzimidazole
+Py-PBI
+air−waterp-xyleneKaptonoligomerHT
+16.5 mmol
+POSS
+PEG600
+PVEpolyvinylethylene
+MAH-functionalizedPEHMA-D/PEHMA-AkDaPS54KmethacrylatePGMA
+A-b-B
+PCPMA
+PMAPhPOSS
+P6CN
+PVDF/PMMA
+PIEMA
+PEG-b-PHMA
+PCEMA
+PDEA
+OEGMA
+HMA
+PTHFDMA
+PS-b-PMMA
+PiBMA
+HEMA
+pBnMA
+PEG-b-P6CN
+PheMMA
+PTEPM
+P(BA-MMA)
+PS-b-PnPMA
+LBMPs
+PMBV
+AMMA
+PPFEMA
+PMMA/MWNT
+PHEMA
+PEG-DMA
+PDEAEMA
+PtBMA
+d-PMMA
+PS/PnBMA
+PEG-b-PEMA
+FlMA
+st-PMMA
+iPMMA
+POEGMA
+PS-r-PMMA
+PDMAEMA54
+GMAPiPrOx
+PBPEM
+PEMA
+aPMMA
+SMS
+PEO-b-PBMA
+PCHMA
+PMAPOSS
+TBMA/S
+EMMA
+S/TBMA
+EGDMA
+MTSM
+LMA
+PHxMA
+DEGMA
+HB-PBMAPNIPA
+PMMA
+EtMA
+pHEMA
+polyCBMA
+CHMA
+PnBMA
+PEGMA
+P2CN
+peaks A
+PAMA
+TBMA
+PNBA
+PEO/PMMA
+polySBMA
+PBMA
+poly-M/S
+PHMA
+pHPMA
+PhMA
+PNBM
+MMA
+PS-b-PnAMA
+BMA
+PDMAMEA
+PMMA−AMA
+GMA/MMA/S
+PFS-b-PMMAiso-PMMA
+PTMA
+PDMAEMA
+PMMA−PtBA
+n-BMA
+PMMA/SAN
+poly(l-lactic acid)PLLA-b-PS
+PBdpolybutadiene
+Davidockpolystyrene-poly(methyl methacrylate)PI 21/PtBS 42Poly(ether sulfone)Styragelpoly(DCPVS)MWNTmultiwalled carbon nanotubes
+MWNT-mPVC
+polysoap
+CB-MWNT
+poly(vinyl chloride)PVC/PCL
+PVC
+PVC/DOP
+poly(nonamethylene l-tartrate)d-PEO/h-PMMApoly(CPVS)polythiolmethylenePHMO
+HT
+PCT
+PHT
+PMSM
+PPM
+PTMC
+α-MBL
+PMNB
+PHF
+MDO
+PMBL
+HMW−PTMC
+MBAAm
+PTT
+HDI
+PHSF
+MDBS
+MDI
+PMCP
+TMC
+TGME
+PMDOB
+PTMO
+BMDO
+PDMSM
+coronaepoly(vinyltrimethylsilane)PS/poly(2-vinylpyridine)PS48kPMMA/clayo-arylenePVMSpoly(vinylmethyl siloxane)
+Brushespoly(4-hydroxystyrene-stat-4-methoxystyrene)JSPSMn(calc) = 6900 g/molPMAPMAPhPOSS
+poly(methyl acrylate)
+i.e., PMAPOSS chains
+Somasif
+pHeBiBPDEGA/P(DEGA-co-OEGA)PVMEi.e., log tan δ vs log aTω plots
+poly(vinyl methyl ether)
+PMMA/CNTplasticizerPNIPAMC60
+poly(N-isopropylacrylamide)
+N3
+meth)acrylatesLCPs
+PS3.7Kpoly(styrene-copolymer-hydroxyethyl methacrylate-2-bromoisobutyryl bromide)Poly(phenylene ether)spolyesterAPE
+UPs
+PPVE
+polycarbodiimidesee Table 1; for comparison linear Tg for PDMS: 145−150 K, depending on crystalline fractionpoly(methyl-n-propylsilane)NIPAAmtrimethylsilylpropyne
+polyethyleniminePEI
+BPEI
+poly(4-bromostyrene)PBrS
+−S−(CH2)6−OHmicaCR
+CR-PBD
+ICOSM
+CVD
+DCH-Ru
+ESCA
+Somasif
+EISPVDF−TrFE
+αgimmiscibilityPMAApoly(methacrylic acid)
+arraysPolyimideHPI
+MWDmolecular weight distribution
+poly(N-isopropylacrylamide)spoly(VDF-co-TFP)poly(3-hydroxybutyrate-co-3-hydroxyvalerate)PS4kPoly(acrylic acid)Poly(m-phenylene oxides)e.g., polypropylenePheMMAPhenanthrylmethyl methacrylate
+1-methylenebenzocycloalkanes1-Methyleneindanepoly(aryl ethers)poly(vinyl acetate)dPVAc
+PVAc
+PEO/PVAc
+PVAc-d3
+χTHF–P3HT = 0.35poly(PVS)-b-poly(NVC)poly(aryl ether sulfones)brittlenesscopolypeptoidslinkerspolyacetylenesTPA-PAs
+poly(N-(n-propyl)glycine)70poly(butylene succinate-co-butylene malate)2PVDF-g-poly(M)polyacrylonitrilePAN
+poly(RMI)sPS/P3HT/o-xylenethermoplasticityPS/PMAAKuhnKMHS
+semicrystallineTosohThe molecular weight calibration curve was obtained with polystyrene standards
+poly(2-alkyl-2-oxazoline)spoly(N-(n-propyl)glycine)70-block-poly(N-methylglycine)ypoly(meth)acrylateLCPs
+PCHApoly(cyclohexyl acylate)
+poly(MMI-alt-BC5)poly(N-(2-hydroxyethyl)prop-2-enamide)PHEPE
+polyaldehydePolysilanepolyketonesrethylenecyclohexanePVCH
+CHX
+PICD
+MCH
+1,3-BAC
+CHDA
+PEMsproton exchange membranes
+CNTcarbon nanotube
+PolyanilinePANi
+P1Poly[2,5-thiophene-alt-5′,5′-(2″,5″-bis(3′,4′-dihexylthien-2′-yl)-1″,3″,4″-oxadiazole)]
+PDMS, Sylgard 184 with 5:1 mix ratio, vacuum-cured at 80 °C for 24 hpoly(sorbityl adipate)PtBApoly(tert-butyl acrylate)
+poly(o-arylene)spolyacylurea.5HEPEelastomersTPE’s
+TPE
+P3HT-b-poly(perylene bismide)c-PFMSA2polyamidePA6
+HBPAs
+PA 6
+PA12
+PA 11
+HM-PiPrOxhydrophobically modified poly(2-isopropyl-2-oxazolines)
+Poly(vinyl acetate)PEO−DMEpoly(ethylene oxide)−dimethyl ether,
+poly(vinylidene fluoride)PVDF/PMMA
+PVF
+PU-2080PlusCopolypeptoidsPFSPFS-b-PI
+pentafluorostyrene
+boro
+PFS-b-PMMAiso-PMMA
+PFS-b-PMVS
+Auacrylate
+PMPC-Au NR
+AuNPs
+ternaryQA
+SEBS
+polyimidescoPIs
+PIM-PI
+AcPIs
+PSPIs
+SPIs
+PI-ES
+HPIs
+pellets=1.06poly[(S)-3-hydroxybutyrate]in PMMA/silica nanocomposites;iii
+magnetic polymer nanocompositesMPNCs
+elastin-like polypeptidesELPs
+PMDApyromellitic dianhydride
+PHEPEpoly(N-(2-hydroxyethyl)prop-2-enamide)
+PC71BMphenyl-C71-butyric acid methyl ester
+MAPi.e., PMAPOSS chains
+mobile amorphous phase
+PAAFL-PAAc
+poly(amic acid)
+DB/PAA
+PAA/PEO
+PMMAA-b-B
+it-PMMA
+ppm
+BA-co-MMA
+HEXPMMA
+iii
+S-b-MMA
+S-ran-MMA
+a-PMMA
+PMMA-NPs
+poly(methyl methacrylate)
+s-PMMA
+10 kg/mol
+hPMMA
+χPS–PMMA
+PDLLApoly(d,l-lactide)
+d-PMMADeuterated poly(methyl methacrylate)
+S-ran-MMA
+MWsMolecular weights
+PAHpoly(allylamine hydrochloride)
+PCLFigure 1b
+PS2
+CH2CO
+column 2
+or P2VP
+Poly(ε-caprolactone)
+PC-DTQxpoly{N-[1-(2′-ethylhexyl)-3-ethylheptanyl]carbazole-2,7-diyl-alt-5,8-dithien-2-yl-2,3-diphenylquinoxaline-5′,5′′-diyl}
+PPCBMpendant fullerenes (PC61BM) as acceptor block
+PEDOTPoly(ethylenedioxythiophene)
+PS-b-P2VPpolystyrene-b-poly-2-vinylpyridine
+Micro DSC', u'PNIPAmSPUsegmented polyurethane
+HM-PEOhydrophobically modified poly(ethylene oxide)
+PDEGApoly(diethylene glycol ethyl ether acrylate)
+PS-b-PIpolystyrene-b-polyisoprene
+PEMpolyelectrolyte multilayer
+fluorenei-PF
+Flu
+PFE
+PFTBT
+PDHF
+silane
+PIFs
+PSiFDBT
+POF
+PFs
+SBF
+PF
+PFEs
+PFT
+PSeN
+TBSBF
+PDOF-OD
+PFB
+fluorescence profile of both compounds greatly resembles the well-structured emission of pol
+PmPV', u'PDMAILsionic liquids
+PC61BMphenyl-C61-butyric acid methyl ester
+PPCBM
+LSlight scattering
+sPSsPSB−PB
+sPSB
+syndiotactic polystyrene
+LBLangmuir−Blodgett
+PFMSpoly(ferrocenylmethylsilane)
+BHJbulk heterojunction
+PPO', u'MBAPDADMACPoly(diallyldimethyl ammonium chloride)
+SANstyrene/acrylonitrile copolymer
+PTFEpolytetrafluoroethylene
+P3HTPoly(3-hexylthiophene)
+PS−SO3−
+run 2
+PTMSPpoly(trimethylsilyl-1-propyne)
+PDMSiPDMS
+Figure 4a
+LPDMS
+poly(dimethylsiloxane)
+PEO/PVAcPEO/poly(vinyl acetate)
+PPOspoly(phenylene oxides)
+PVOHPoly(vinyl alcohol)
+C\u2261N', u'NIPAMPDMAEMAq-PDMAEMA
+pH 2
+poly(2-(dimethylamino)ethyl methacrylate)
+PtBMApoly(tert-butyl methacrylate)
+PS-b-PEOpolystyrene-block-poly(ethylene oxide)
+PCOE', u'pNIPAmPVPA-b-B
+wPVPh
+i.e., log tan δ vs log aTω plots
+pH 2
+polyvinylpyrrolidone
+PVP–DCM
+PVSpoly(vinyl stearate)
+NVC
+PBCPSpoly[2,5-bis(4-carboxylic phenyl)styrene]
+pNIPAMpolymeric solute−surface interactions, we explored the behavior of polyisopropylacrylamide
+Poly-1poly(15N-hexyl-N-phenylcarbodiimide)
+AETH', u'PVDFITOindium tin oxide
+LB-PBDlower barrier 1,4-polybutadiene
+UHMWPEultrahigh molecular weight polyethylene
+QDs', u'PEtOxPtBSpoly(4-tert-butylstyrene)
+PS-b-PMMApoly(styrene)-block-poly(methyl methacrylate)
+χPS–PMMA
+GMA', u'PiPrOxPPEESpoly(1,4-phenylene ether−ether−sulfone)
+PEDOT:PSSpoly(3,4-ethylenedioxythiophene):polystyrenesulfonate
+PDIpolydispersity index
+PANPAN−PDMS
+polyacrylonitrile
+PVAcor PVAc
+poly(vinyl acetate)
+Rgradius of gyration
+P2Poly[2,5-thiophene-alt-5′,5′-(2″,5″-bis(3′,4′-dihexylthien-2′-yl)-1″,3″,4″-thiadiazole)]
+i.e., log tan δ vs log aTω plots
+PBA/P2VP
+SV
+Pn', u'PSPPPR1
+PR2
+cPPA
+polypropylene
+PP-g-MA
+FPPDO
+CCD', u'PIsPTPTMO-32.5
+PTHF-b-PAA
+PTHF-b-PMA
+poly(thiophene)
+MALS', u'PBP3Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,1,3-benzoselenadiazole-4,7-diyl)]
+S*
+PS−SO3−
+run 2
+P44T
+Tg-P4VP
+Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2-(2-ethylhexyl)-2H-benzotriazole-4,7-diyl)]
+or P2VP
+P5Poly[(4,4′-dinonyl-2,2′-bithiazole-5,5′-diyl)-(2,3-dimethylquinoxaline-5,8-diyl)]
+CR-PBDchemically realistic 1,4-polybutadiene
+pBnMApoly(benzyl methacrylate)
+P3PhTpoly(3-(4′-(3′′,7′′-dimethyloctoxy)phenyl)thiophene)
+SL-EoS', u'MWNTsPDIspolydisperse indices
+HMHydrophobically end-modified
+PEspolyHIPEs
+polyethylenes
+PS/PVME', u'H-bondsPSSpoly(styrenesulfonate)
+PETpoly(ethylene terephthalate)
+PEOPS–PEO
+wPEO
+Br-PEO-Br
+PEO-CTA
+PEO–
+fPEO
+C−H
+PEO-b-PBMA
+PEO4K
+PEG 4600
+d-PEO
+TcTa
+PEO/PAA
+PAA/PEO
+Poly(ethylene oxide)
+tPEO
+PEO/PVAc
+PEGPEG-DSTY
+DMPEG
+PEG–LA
+tP-NC gels
+PEG-DMA
+tP-NC gel
+mf-PEG
+w/w
+ONS
+TNPEG
+poly(ethylene glycol)
+Ad
+TC-PEG
+THPEG
+PEGDADMAc
+PEGVS
+BCPBlock copolymers
+PStpolystyrene
+C60C60-PNIPAM,
+C60
+ICBA
+BCPsblock copolymers
+PLAχPLA–PB
+poly(lactic acid)
+PLATC
+N-S
+fPLA
+PLA-TC
+N-s-S
+PMMA/MWNTPoly(methyl methacrylate)/multiwalled carbon-nanotube
+PPCpressure perturbation calorimetry
+PPGpolypropylene glycol
+PDLApoly(d-lactic acid)
+MWDsmolecular weight distributions
+PEO/PMMApoly(ethylene oxide)/poly(methyl methacrylate)
+PANIpolyaniline
+PBrSpoly(4-bromostyrene)
+PLLAPoly(l-lactide)
+fPLLA
+one phase
+HPLChigh-performance liquid chromatography
+GPC-MALLSGel permation chromatography in combination with a multiangle laser-light scattering detector
+PEexPECs
+PEG-DSTY
+DMPEG
+PS–PEO
+PEG–LA
+tP-NC gels
+wPEO
+PEG-DMA
+termed pPEtBMA
+Br-PEO-Br
+PEO-CTA
+tP-NC gel
+PEO–
+fPEO
+polyHIPEs
+C−H
+20 mmol
+mf-PEG
+w/w
+PEO-b-PBMA
+PEO4K
+PEG 4600
+polyethylene
+ONS
+TNPEG
+d-PEO
+TcTa
+PEO/PAA
+3.5 mmol
+Ad
+PAA/PEO
+TC-PEG
+THPEG
+tPEO
+HDPE
+PEO/PVAc
+4.3 mmolCMT
+PEGDADMAc
+PEGVS
+PTMCpoly(trimethylene carbonate)
+PFDMSpoly(ferrocenyldimethylsilane)
+PFS-N3
+μ-SIFc
+P3HT:PCBMpoly(3-hexylthiophene):phenyl-C61-butyric acid methyl ester
+PPSpoly(phenylene sulphide)
+d-PEOdeuterated PEO
+PGMApoly(glycidyl methacrylate)
+PMbG
+PBTpolybenzothiazole
+10 kg/mol18 kg/mol, which is higher than the entanglement molecular weight of PMMA
+MC', u'PBDPBApolybutyl acrylate
+BA-co-MMA
+PBA/P2VP
+i.e., PCL
+one phase
+PH', u'PIPCBMbis-PCBM
+phenyl C61-butyric acid methyl ester
+PBIpolybenzimidazole
+Py-PBI
+PVEpolyvinylethylene
+PBdpolybutadiene
+MWNTmultiwalled carbon nanotubes
+MWNT-mPVC
+polysoap
+CB-MWNT
+PVMSpoly(vinylmethyl siloxane)
+PMAPMAPhPOSS
+poly(methyl acrylate)
+i.e., PMAPOSS chains
+Somasif
+PVMEi.e., log tan δ vs log aTω plots
+poly(vinyl methyl ether)
+PNIPAMC60
+poly(N-isopropylacrylamide)
+N3
+TMSP', u'NIPAAmPMAApoly(methacrylic acid)
+MWDmolecular weight distribution
+PheMMAPhenanthrylmethyl methacrylate
+TosohThe molecular weight calibration curve was obtained with polystyrene standards
+PCHApoly(cyclohexyl acylate)
+PEMsproton exchange membranes
+CNTcarbon nanotube
+P1Poly[2,5-thiophene-alt-5′,5′-(2″,5″-bis(3′,4′-dihexylthien-2′-yl)-1″,3″,4″-oxadiazole)]
+PtBApoly(tert-butyl acrylate)
+HM-PiPrOxhydrophobically modified poly(2-isopropyl-2-oxazolines)
+PFSPFS-b-PI
+pentafluorostyrene
+boro
+PFS-b-PMMAiso-PMMA
+PFS-b-PMVS
+iiiin PMMA/silica nanocomposites;
+MPNCsmagnetic polymer nanocomposites
+ELPselastin-like polypeptides
+AgTFAal., using a dithranol/silver trifluoroacetate
+Rgradius of gyration
+pyromellitic dianhydridePMDA
+poly(N-(2-hydroxyethyl)prop-2-enamide)PHEPE
+P3HTPoly(3-hexylthiophene)
+PS−SO3−
+run 2
+Poly-1poly(15N-hexyl-N-phenylcarbodiimide)
+phenyl-C71-butyric acid methyl esterPC71BM
+PGMApoly(glycidyl methacrylate)
+PMbG
+PHICPSPMPCS
+poly(n-hexyl isocyanate)
+PAMpolyacrylamide
+C60
+N–H
+N3
+SDS-PAGEsodium dodecyl sulfate polyacrylamide gel electrophoresis
+HPAMHydrolyzed polyacrylamide
+CL-co-VSCcompositions were nicely controlled by the VSC/ε-CL molar feed ratio, in which
+MMDmolar mass distribution
+mol %PBSA10
+molar percentage
+i.e., PMAPOSS chainsin Appendix 2 for the orthorhombic lattice structure of PMAPOSS chains, the molecularly stacked layer structure of POSS units
+mobile amorphous phaseMAP
+FL-PAAcfluorescein labeled PAAc
+poly(amic acid)PAA
+PASE
+HPAA
+DB/PAAdependent swelling responses of (STB/PAA), (LTB/PAA), and
+PAA/PEOPAA and PEO
+PVARGO-PVA
+or PVAc
+FPPDO
+poly(vinyl alcohol)
+w/v
+A-b-BA-b-B/C blend system, poly(vinylphenol-b-methyl methacrylate)/poly(vinylpyrrolidone) (PVPh-b-PMMA)/PVP, where PVPh-b-PMMA block
+A-b-B
+it-PMMAisotactic PMMA
+ppmpeak of PMMA units at δ
+Ph
+signal e
+4e
+BA-co-MMABiB, cellulose-g-PBA, cellulose-g-PMMA, and cellulose-g-
+HEXPMMAHEX morphology in which PMMA formed the minor domain
+iiiin PMMA/silica nanocomposites;
+S-b-MMAsurface energy difference between the PS and PMMA blocks facilitates
+S-ran-MMAsample, the bottom polymer layer consists of a blend of d-PMMA and
+a-PMMAatactic PMMA
+PMMA-NPsPMMA nanoparticles
+poly(methyl methacrylate)PVDF/PMMA
+PS-b-PMMA
+d-PMMA
+st-PMMA
+iPMMA
+PS-r-PMMA
+aPMMA
+SMS
+PMMA
+PEO/PMMA
+PFS-b-PMMAiso-PMMA
+PMMA−PtBA
+PMMA/SAN
+s-PMMAsyndiotactic PMMA
+10 kg/mol18 kg/mol, which is higher than the entanglement molecular weight of PMMA
+hPMMAhomopolymer PMMA
+iiiin PMMA/silica nanocomposites;
+MPNCsmagnetic polymer nanocomposites
+ELPselastin-like polypeptides
+AgTFAal., using a dithranol/silver trifluoroacetate
+Rgradius of gyration
+pyromellitic dianhydridePMDA
+poly(N-(2-hydroxyethyl)prop-2-enamide)PHEPE
+P3HTPoly(3-hexylthiophene)
+PS−SO3−
+run 2
+Poly-1poly(15N-hexyl-N-phenylcarbodiimide)
+phenyl-C71-butyric acid methyl esterPC71BM
+PGMApoly(glycidyl methacrylate)
+PMbG
+PHICPSPMPCS
+poly(n-hexyl isocyanate)
+PAMpolyacrylamide
+C60
+N–H
+N3
+SDS-PAGEsodium dodecyl sulfate polyacrylamide gel electrophoresis
+HPAMHydrolyzed polyacrylamide
+CL-co-VSCcompositions were nicely controlled by the VSC/ε-CL molar feed ratio, in which
+MMDmolar mass distribution
+mol %PBSA10
+molar percentage
+i.e., PMAPOSS chainsin Appendix 2 for the orthorhombic lattice structure of PMAPOSS chains, the molecularly stacked layer structure of POSS units
+mobile amorphous phaseMAP
+FL-PAAcfluorescein labeled PAAc
+poly(amic acid)PAA
+PASE
+HPAA
+DB/PAAdependent swelling responses of (STB/PAA), (LTB/PAA), and
+PAA/PEOPAA and PEO
+PVARGO-PVA
+or PVAc
+FPPDO
+poly(vinyl alcohol)
+w/v
+A-b-BA-b-B/C blend system, poly(vinylphenol-b-methyl methacrylate)/poly(vinylpyrrolidone) (PVPh-b-PMMA)/PVP, where PVPh-b-PMMA block
+A-b-B
+it-PMMAisotactic PMMA
+ppmpeak of PMMA units at δ
+Ph
+signal e
+4e
+BA-co-MMABiB, cellulose-g-PBA, cellulose-g-PMMA, and cellulose-g-
+HEXPMMAHEX morphology in which PMMA formed the minor domain
+iiiin PMMA/silica nanocomposites;
+S-b-MMAsurface energy difference between the PS and PMMA blocks facilitates
+S-ran-MMAsample, the bottom polymer layer consists of a blend of d-PMMA and
+a-PMMAatactic PMMA
+PMMA-NPsPMMA nanoparticles
+poly(methyl methacrylate)PVDF/PMMA
+PS-b-PMMA
+d-PMMA
+st-PMMA
+iPMMA
+PS-r-PMMA
+aPMMA
+SMS
+PMMA
+PEO/PMMA
+PFS-b-PMMAiso-PMMA
+PMMA−PtBA
+PMMA/SAN
+s-PMMAsyndiotactic PMMA
+10 kg/mol18 kg/mol, which is higher than the entanglement molecular weight of PMMA
+hPMMAhomopolymer PMMA
