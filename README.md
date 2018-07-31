@@ -13,8 +13,19 @@
 ## Rule-Based Synonyms
 * test_synonym_extraction.ipynb
 
-* Identifies polymer names and their acronyms in text 
+    + Identifies polymer names and their acronyms in text 
 
-* uses abbreviations.py
+    + uses abbreviations.py
+    
+    + produces amber_polymer_candidates.txt
+    
+* evaluation_candidates.ipynb
 
+    + Compares polymer_candidates.txt to ground_truth_polymers_list.txt
+    
+* groundtruth_plurals.ipynb
+
+    + Removes plurals from ground_truth_polymers_list.txt
+    
+    + produces ground_truth_polymers_list_plurals.txt
 
