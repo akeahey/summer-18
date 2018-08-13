@@ -29,3 +29,9 @@
     
     + produces ground_truth_polymers_list_plurals.txt
 
+* synonyms_similarity_comparison.ipynb
+
+    + Uses most_similar gensim model to find words most similar to polymers 
+    
+    + Assesses how many of these most_similar vectors are actual acronyms 
+
