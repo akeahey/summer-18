@@ -34,4 +34,10 @@
     + Uses most_similar gensim model to find words most similar to polymers 
     
     + Assesses how many of these most_similar vectors are actual acronyms 
+    
+* augmented_keywords_evaluation.ipynb
+    
+    + Uses more keywords to find msot similar polymer names in model 
+    
+    + Output: FT_candidates_500.txt
 
