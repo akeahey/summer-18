@@ -37,7 +37,9 @@
     
 * augmented_keywords_evaluation.ipynb
     
-    + Uses more keywords to find msot similar polymer names in model 
+    + Uses more keywords to find msot similar polymer names in model
+    
+    + Input: scraped_polymer_names.txt
     
     + Output: FT_candidates_500.txt
 
