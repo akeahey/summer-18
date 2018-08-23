@@ -1,0 +1,1748 @@
+PEtG
+
+S-2
+
+PMDA
+
+trimethylene
+
+polybutadiene
+
+nPCL
+
+copoly(ether ketone)s
+
+poly(phenylenecarbonyl)s
+
+(PI)/polyvinylethylene
+
+PS-b-poly(4-hydroxystyrene)-b-PMMA
+
+poly(BMI-per-BMI-per-BC7)
+
+poly(15N-hexyl-N-phenylcarbodiimide)
+
+poly(EMI-alt-BC5)
+
+PC70BM
+
+poly(ethylene oxide)
+
+43/PtBS
+
+poly(glycidyl methacrylate)
+
+Tg,PtBS
+
+poly(BPVS-Br)
+
+poly(n-hexyl isocyanate)
+
+polyacrylamide
+
+PBCPS
+
+HM-poly(2-isopropyl-2-oxazolines)
+
+poly(ferrocenylmethylphenylsilane)
+
+PEC/P
+
+Polylactide
+
+poly[(9,9-dioctylfluorene-2,7-diyl)-(2,3,5,6-tetrafluoro-1,4-phenylene)]
+
+poly(vinyl alcohol)
+
+PtRu
+
+polybenzoxazine
+
+d-PMMA
+
+Poly(propylene glycol)bis(2-aminopropyl ether)
+
+NIPAM
+
+polyol
+
+1-methylenebenzocycloheptane
+
+PEO)/poly(methyl methacrylate
+
+Polyferrocenylsilane
+
+polythiophene
+
+polyethylene-block-poly(N,N-dimethylacrylamide)
+
+35/PtBS
+
+poly(lactic-co-glycolic acid)
+
+poly(phenylene)s
+
+poly(tert-butylstyrene)
+
+poly(acrylic acid)
+
+poly(ferrocenylsilane)
+
+PEB2
+
+methylenebis(acrylamide)
+
+PCL-b-TMC-b-PCL
+
+PMMA/poly(vinylidene fluoride)
+
+poly(VF2-co-HFP)
+
+poly(substituted methylene)
+
+poly[(S)-3-hydroxyvalerate]
+
+Poly(tetramethyl glycolide)
+
+PS/polybutadiene
+
+poly(mPO)
+
+321/PtBS
+
+PEDOT
+
+tetramethylene
+
+Poly(N-isopropylacryamide)
+
+PMMA/MWNT
+
+e.g., polydimethylsiloxane, PDMS
+
+poly(l-lactide)
+
+polybenzimidazoles
+
+poly[(N-octadecylcarbazole-3,6-diyl)-(2,3,5,6-tetrafluoro-1,4-phenylene)]
+
+poly(vinylsulfonium salts)
+
+polymethyl
+
+poly(EHMI-alt-BC5)
+
+poly(biphenoxyphosphazene)
+
+poly(2,6-dimethyl-1,4-phenylene ether)
+
+polystyrene
+
+poly(phosphoric acid)
+
+polyketal
+
+HM-poly(N-isopropylacrylamides)
+
+PEG-SH
+
+poly(2-alkyl-2-oxazolines)
+
+AXIMA
+
+Poly(3,4-ethylenedioxythiophene)-poly(styrenesulfonate)
+
+53/PtBS
+
+TPMG2
+
+Poly(BPVS-An)
+
+poly(nonamethylene l-tartrate)
+
+PDMS-11:C-PDMS-M
+
+poly(1,5-dioxepan-2-one)
+
+PCL-b-PTMC-b-PCL
+
+poly(ether ether ketones)
+
+poly(diketopyrollopyrole)
+
+polypeptoids
+
+1,4-polyisoprene
+
+poly(BMI-alt-BC5)
+
+PS)/poly(vinyl methyl ether
+
+PCzTTQx:PC71BM
+
+Polycaprolactone/polytrimethylene
+
+poly(meta-phenylene oxides)
+
+MMA
+
+poly(binaphthoxyphospaze)
+
+C-PDMS
+
+PS/poly(methyl methacrylate)
+
+poly(9,9-dihexylfluorene)
+
+poly(ether ether sulfone)
+
+BAB
+
+polythioketal
+
+poly(diphenoxyphosphazene)
+
+PCL/MDI/HQEE
+
+MK,PtBS
+
+polythiophenes
+
+poly(9,9-dioctylfluorene-2,7-diyl)
+
+poly(ether ketone)
+
+poly(ethylene imine)
+
+poly(NVC)
+
+polyamides
+
+poly(PVS)s
+
+C-3
+
+polycarbonate
+
+N-Methylmaleimide
+
+poly(nonamethylene dl-malate)
+
+Methylene
+
+polysilane
+
+polycaprolactone
+
+PS-b-poly(4-urethanopropyltriethoxysilylstyrene)-b-PMMA
+
+poly(diallyldimethylammonium chloride)
+
+polycarbodiimides
+
+poly(amic acid)s
+
+poly(phthalaldehyde)
+
+polypyrrole
+
+poly(viny1 acetate)
+
+poly(N,N-diethylacrylamide)
+
+Poly(ferrocenylmethylsilane)
+
+poly(BPVS-Flu)
+
+poly(ether ether ketone)
+
+PS-b-poly(4-vinylpyridine)
+
+HDMS
+
+poly(methyl acrylate)
+
+PSOH
+
+poly(ethylene terephthalate)
+
+PI/PtBS
+
+1,1,4,7,10,10-hexamethyltriethylenetetramine
+
+Poly(anilinephosphonic acid)
+
+polyacrylonitrile
+
+MMAO-3A
+
+poly(ethylene oxide)/poly(methyl methacrylate)
+
+poly(acrylonitrile)
+
+polysemiquinone
+
+PCzTTPz:PC71BM
+
+PEO/poly(lactide)
+
+poly(styrene)
+
+polyacrylates
+
+poly(MMA)
+
+poly(arylene ether nitrile)
+
+poly(MMI-alt-IB)
+
+Poly(N-methylglycine)
+
+poly(vinylcaprolactam)
+
+poly(VDF-co-HFP)
+
+poly(lactide)
+
+poly(VDF-co-TrFE)
+
+poly(MMI-alt-CA5)
+
+poly(styrene-co-2,3,4,5,6-pentafluorostyrene)
+
+poly(2-hydroxybutyric acid)
+
+polysarcosine
+
+poly(ethylene terephtalate)
+
+Polycarbonates
+
+poly(p-xylylene)
+
+poly(amic acid)
+
+poly(4-hydroxystyrene-stat-4-methoxystyrene)
+
+polyimide
+
+polysulfone
+
+poly(CPVS)
+
+poly(S-vinyl sulfide)
+
+poly(M)
+
+poly(oligoethylene glycol acrylate)
+
+poly(n-isopropylacrylamide)
+
+PTMCs
+
+PS-b-PDMS
+
+MWNT/PMMA
+
+poly(C6M)
+
+polycaprolactone, PCL
+
+poly(cyclohexyl acrylate)
+
+poly(acrylonitrile/butyl acrylate)
+
+polybenzoxazines
+
+poly(vinyl methyl ether)/polystyrene
+
+polybutadienes
+
+polystyrenes
+
+Poly(methyl methacrylate)/multiwalled
+
+poly(2-methoxyaniline-5-sulfonic acid)
+
+PtBMA
+
+poly(phenylene oxides)
+
+nanopolyhedras
+
+poly[(R)-3-hydroxyvalerate]
+
+poly(NVC)-b-poly(BPVS)
+
+poly(DEGEA-co-oligo(ethylene glycol) acrylate)
+
+cis-Polyisoprene
+
+pNIPAm
+
+CHARMM
+
+A3MA
+
+poly(ether ether ketone)s
+
+poly[2,5-bis(4-carboxylic phenyl)styrene]
+
+PS:P3HT
+
+poly(3-(4-octylphenyl)thiophene)
+
+PVT
+
+N,N-dimethylethylenediamine
+
+polyfluorene
+
+poly(BC5)
+
+polyethylenes
+
+poly(3-alkylthiophene)s
+
+poly(methyl acrylate) radicals)
+
+poly(fluorene)s
+
+poly(vinyl methyl ether)
+
+PVDFs
+
+poly(2-isopropyl-2-oxazoline)s
+
+DPPCL
+
+polyaldehydes
+
+poly(propylene oxide)
+
+poly(lactic acid)
+
+poly(butylene terephthalate)
+
+poly(vinyl acetate))
+
+21/PtBS
+
+poly(benzyl methacrylate)
+
+PS/poly(phenylene oxide)
+
+poly(N-isopropylacrysamide)/d8-1-ethyl-3-methylimidazolium
+
+poly(N-(n-propyl)glycine)x-block-poly(N-methylglycine)y
+
+polyethylene(s)
+
+PtBA/PS
+
+poly(tert-butyl methacrylate)
+
+(co)polyacrylates
+
+poly(VDF-co-M)
+
+PATs
+
+C-PDMS-M
+
+PS/PMVE
+
+poly(vinylmethyl siloxane)
+
+PMMA350k
+
+RPI
+
+MK,PI
+
+poly(hydroxybutyrate)
+
+PtBS
+
+4-methoxystyrene
+
+poly(dimethylamino ethyl acrylate)
+
+polyacrylamides
+
+polyketone
+
+PS-b-PMMA
+
+poly(nonamethylene tartrate-co-nonamethylene succinate)
+
+C-PDMS-14
+
+C-PDMS-11
+
+C-PDMS-3
+
+C-PDMS-7
+
+polyethylene
+
+[poly(MMI-alt-IB)]
+
+poly(methyl-n-propylsilane)
+
+polypropylene
+
+PAU
+
+poly(arylenecarbonyl)s
+
+poly[(R)-2-hydroxybutyrate]
+
+poly(ether imides)
+
+bisimide
+
+polyisocyanate
+
+poly(3-(4-dodecylphenyl)thiophene)
+
+poly(MMI-alt-BCm)s
+
+N-Boc-N-methylglycine
+
+polyaspartimide
+
+poly(VDF-alt-TFP)
+
+Poly(p-xylylene)s
+
+polyphosphazene
+
+poly[n-dodecyl-(R)-2-methyl
+
+PSS-GRAM
+
+polyharrisson@gmail.com
+
+poly(dialkylfluorene)
+
+poly(allylamine hydrochloride)
+
+polyurethane
+
+poly[(S)-2-hydroxybutyrate]
+
+iodide/N,N,N,N,N-pentamethyldiethylenetriamine
+
+poly(2-ethylhexyl methacrylate)
+
+poly(pentafluorophenyl acrylate)
+
+h-PMMA
+
+PI
+
+homopolystyrene
+
+PVP-b-PS
+
+poly(acryloyl carbonate)
+
+1,4-polybutadiene
+
+polyacetals
+
+poly(9,9-dialkylfluorene)s
+
+PEs
+
+polyphosphazenes
+
+polystyrene/poly(vinyl
+
+poly(PVS)
+
+poly(BPVS-b-NVC)
+
+poly(phenylene sulphide)
+
+AnMA
+
+PMMA50k
+
+hexamethyldisilizane
+
+N-methylglycine
+
+poly(aryne-alt-carbon monoxide)s
+
+poly(VDF-co-MAF)
+
+poly[2,3-bis(3-octyloxyphenyl)quinoxaline-5,8-diyl-alt-thiophene-2,5-diyl]
+
+poly(MMI-alt-CA6)
+
+polystyrenesulfonate
+
+polyvinylethylene
+
+poly(N-(n-propyl)glycine)
+
+polyolefin
+
+PI/poly(p-tert-butylstyrene)
+
+Poly(ethylene-1,2-dioxy-thiophene)/poly(stylene surfonic acid)
+
+chitosan-graft-poly(N-isopropylacrylamide)
+
+HM-poly(ethylene oxides)
+
+PS296-b-PAA41-b-PMMA236
+
+PSt
+
+poly(3-hexylthiophene-2,5-diyl)
+
+poly(styrene-alt-maleimide)
+
+Tg,PMMA
+
+poly(p-phenylene-ethynylene)
+
+poly(3-hexylthiophene)
+
+poly[n-dodecyl-(R)-2-methylbutylsilane]
+
+Poly(lactide)s
+
+chlorotrifluoroethylene
+
+C-PDMS-M:C-PDMS-M
+
+poly(BPVS-DPA)
+
+PS/PCL
+
+poly(MMI-alt-BC6)
+
+poly(2-ethyl-2-oxazolines)
+
+poly(ferrocenyldimethylsilane)
+
+poly(methyl methacrylate)
+
+TMA
+
+UMA
+
+PAA)/poly(N,N-dimethylaminoethyl methacrylate
+
+poly(propylene glycol)
+
+poly(1-trimethylsilyl-1-propyne)
+
+polydimethylsiloxane
+
+poly(tert-butyl acrylate)
+
+poly(tetrafluoroethylene)
+
+PI)/poly(vinylethylene
+
+poly(2-hydroxybutyrate)
+
+polythiourethane
+
+PM-4X.23
+
+CL
+
+poly(3-hexylthiophene)-block-PPCBM
+
+PS-b-poly(tert-butyl acrylate)
+
+poly(N-vinyl carbazole)
+
+HM-poly(N-isopropylacrylamide)
+
+Poly(ferrocenylsilane-b-polyphosphazene)
+
+poly(arylene ether)s
+
+PMPS
+
+poly(vinyl stearate)
+
+PS/poly(methacrylic acid)
+
+poly(VDF-co-PMVE)
+
+poly[(R)-3-hydroxybutyrate]
+
+poly(BC4)
+
+poly(2-methoxyaniline-5-phosphonic acid)
+
+poly(trimethylammonium ethylacrylate)-b-poly(acrylamide)
+
+polysaccharide
+
+PSF/PMMA
+
+PCL80-b-PTMC80-b-PCL80
+
+GN,PtBS
+
+PEO/poly(vinyl acetate)
+
+poly(BzA-co-IBVE)
+
+poly(N-alkylglycine)s
+
+poly(pMeOBzA-co-IBVE)
+
+Poly(p-tert-butylstyrene)
+
+PPG
+
+poly(2-vinylpyridine)
+
+poly(PVS)-b-poly(NVC)s
+
+PCL80-b-PTMC80
+
+polybenzimidazole
+
+poly(alkylthiophene)s
+
+poly[(9,9-dihexylfluorene-2,7-diyl)-(1,4-phenylene)]
+
+polytetrafluoroethylene
+
+poly[n-dodecyl-(S)-2-methylbutylsilane]
+
+poly(ethylene naphthalate)
+
+poly(BPVS-PTZ)
+
+poly(styrene-ran-acrylonitrile)
+
+poly(ferrocenyldihydrosilane)
+
+PS/PMAA
+
+poly(styrene)-block-poly(methyl methacrylate)
+
+poly(N,N-dimethylaminoethyl methacrylate)
+
+chitosan-TEMPO
+
+poly(2-hydroxybutanoic acid)
+
+PtBMA-b-poly(glycidyl methacrylate)-b-PS
+
+PS2.4k
+
+poly[(S)-lactide]
+
+PBrS
+
+polypeptoid
+
+poly(trimethylene carbonate)
+
+poly(methyl methacrylate-co-anthrylmethyl methacrylate)
+
+PS390k
+
+poly(N,N-dimethylacrylamide)
+
+poly(alkinyl-p-xylylene-co-p-xylylene)
+
+poly(dimethylsiloxane)
+
+poly(ethoxydi(ethylene glycol) acrylate)
+
+poly(o-chlorostyrene)/PVME
+
+poly(BPVS)
+
+chitozan
+
+polystyrene-block-poly(ethylene oxide)
+
+poly(ether sulfone)s
+
+(ITO)/poly3,4-ethylenedioxythiophene
+
+PEMFCs
+
+poly(BPVS-An-b-NVC)
+
+polycyclic
+
+poly(ethylene glycol)
+
+P3HT/PCBM
+
+tri(o-tolyl)phosphine
+
+PDMS-11:PDMS-11
+
+PS-FTC
+
+perfluoro-4-methyl-3-ethyl-2-pentene
+
+PS/PVP
+
+poly(2-isopropyl-2-oxazolines)
+
+P3HT:PCBM
+
+poly(BzA-co-CEVE)
+
+polytrimethylene
+
+pNIPAm-CTA
+
+4-bromostyrene
+
+poly(VDF-co-1234yf)
+
+PCL40-b-PTMC40
+
+poly(butylene tartrate).3
+
+PAIU
+
+poly(o-arylene)s
+
+e.g., polyvinyl chloride
+
+poly(ether ether sulfone)s
+
+poly(mPOs)
+
+poly(N-n-propylacrylamide)
+
+polyisoprene
+
+PBP
+
+poly(p-phenylenevinylene)
+
+poly(cadmium acrylate)
+
+1,3-dimethyl-3-phospholene
+
+oxymethylene
+
+Polymetallocene
+
+PBD
+
+PBC
+
+polyketals
+
+1-methylenetetralin
+
+LAMMPS
+
+PEHMA-D/PEHMA-A
+
+poly(l-lactic acid)
+
+polystyrene-poly(methyl methacrylate)
+
+1,3-trimethylene
+
+poly(DCPVS)
+
+PMMA15k
+
+poly(vinyl chloride)
+
+PEFCs
+
+poly(butylene terephtalate)
+
+PAN/DMF
+
+polythiol
+
+poly(vinyltrimethylsilane)
+
+PS/poly(2-vinylpyridine)
+
+PS48k
+
+ODA/6FDA
+
+NBS
+
+PVMS
+
+polyacetal
+
+JSPS
+
+Trifluoroethylene
+
+poly[n-decyl-(S)-2-methylbutylsilane]
+
+QGPtBS
+
+MPtBS
+
+poly(styrene-copolymer-hydroxyethyl methacrylate-2-bromoisobutyryl bromide)
+
+Poly(phenylene ether)s
+
+EHMA
+
+polycarbodiimide
+
+PNIPAM40
+
+[BADGE]/Tetrad-X/TEPA/(34 wt %)EMImTFSI
+
+poly[(R)-lactide]
+
+polyethylenimine
+
+polypropylenes
+
+poly(N-isopropylacrylamide)s
+
+poly(VDF-co-TFP)
+
+poly(3-hydroxybutyrate-co-3-hydroxyvalerate)
+
+PS4k
+
+Poly(m-phenylene oxides)
+
+e.g., polypropylene
+
+PheMMA
+
+1-methylenebenzocycloalkanes
+
+QGN,PtBS
+
+PAA/PS
+
+poly(aryl ethers)
+
+poly(vinyl acetate)
+
+poly(PVS)-b-poly(NVC)
+
+poly(aryl ether sulfones)
+
+Ts
+
+polyacetylenes
+
+poly(N-(n-propyl)glycine)70
+
+poly(butylene succinate-co-butylene malate)2
+
+PVDF-g-poly(M)
+
+poly[(10,10-dioctyl-N-methylphenazasiline-2,8-diyl)-(2,3,5,6-tetrafluoro-1,4-phenylene)]
+
+poly(RMI)s
+
+poly(ether sulfone)
+
+NPMMA
+
+poly(2-alkyl-2-oxazoline)s
+
+poly(N-(n-propyl)glycine)70-block-poly(N-methylglycine)y
+
+poly(meth)acrylate
+
+Poly(4-bromostyrene)
+
+poly(MMI-alt-BC5)
+
+poly(N-(2-hydroxyethyl)prop-2-enamide)
+
+polyaldehyde
+
+poly(VDF-co-2,3,3,3-tetrafluoropropene-1-ene)
+
+poly(sorbityl adipate)
+
+PCL-b-TMC
+
+anisolyl
+
+polyacylurea.5
+
+FPS
+
+P3HT-b-poly(perylene bismide)
+
+poly(RMI-alt-BCm)s
+
+polyamide
+
+polyaniline
+
+poly(vinylidene fluoride)
+
+poly[(S)-3-hydroxybutyrate]
+
+75 MHz
+
+1,4
+
+bis(trifluoroacetyl)
+
+1-ethyl-4,4-bis(4-methoxyphenyl)piperidine
+
+1.2 g, 95%
+
+PMMA/PEO
+
+NH4Cl
+
+poly(tetramethyl glycolide)
+
+1,1,2,2-tetrafluoro-2-(1,1,2,2-tetrafluoro-2-iodoethoxy)ethanesulfonate
+
+0.5 g
+
+PS54K/PCL
+
+C-2
+
+PPTS, 0.05 equiv
+
+1Se
+
+PMMA
+
+Polysulfone
+
+600 MHz, CDCl3
+
+PIM-PMDA-OH
+
+100 equiv
+
+1-hexyl-3-methylimidazolium
+
+[TSK-GELs
+
+bis(triphenylphosphino)(4-trifluoromethylphenyl)
+
+2-Trifluoromethylacrylate
+
+PC-DTQx
+
+19F]
+
+0.066 g, 94%
+
+13CNMR
+
+PM-4
+
+9,9-dimethylfluoren-2-boronic
+
+JGC-S
+
+10%
+
+1,3,4,5-tetramethylimidazol-2-ylidene
+
+DCM
+
+0.0212 g
+
+2.0 mg
+
+BC7
+
+0.82 g, 80%
+
+19F
+
+HCl
+
+2,3,3,3-Trifluoroprop-1-ene
+
+Polyketones/Polyketals
+
+methyltriphenylphosphonium
+
++82
+
+TPMG0
+
+Azidopropyltris(1,1,1,3,5,5,5-heptamethyltrisiloxy)silane
+
+(OH)3Al2OSiOH
+
+13C-DEPT
+
+PATFIT-88
+
+Fluorochem
+
+100 MHz, CDCl3
+
+0.50 g
+
+bis(triphenylphosphino)aryl
+
+Polysilane
+
+DMSO-d6
+
+Polyacetals
+
+1-Ethyl-4-(4-methoxyphenyl)piperdine-4-ol
+
+5,8-bis(5-bromothiophen-2-yl)-2,3-bis(5-octylthiophen-2-yl)quinoxaline
+
+H2SO4
+
+0.09 mm2
+
+PEM
+
+2,7-dibromo-9,10-diethyoxyphenanthrene
+
+1,4-bis(diphenylphosphino)butane
+
+270 MHz
+
+2,3,3,3-Tetrafluoroprop-1-ene
+
+300 MHz, o-DCB-d4
+
+bis(trifluoromethanesulfonyl)imide
+
+AlOH
+
+0.75 mmol, 0.35 g
+
+0.68 g, 94%
+
+1-benzyl-3-methylimidazolium
+
++81-72-254-9292
+
+400 MHz, DMSO-d6
+
+dimethylformamide
+
+cis-polyisoprene
+
+MA), 100 equiv
+
+CDCl3, 75 MHz
+
+2:3
+
+1-methyl-2-pyrrolidinone
+
+Poly(l-lactide)
+
+1,3-bis(diphenylphosphino)propane
+
+sPS
+
+poly(N-isopropylacrylamide)
+
+I(L)
+
+vinylidene fluoride, VDF
+
+Wonho
+
+1 equiv
+
+1H,13C-HSQC
+
+N-isopropylacrylamide
+
+PTB7:PC70BM
+
+DMSO
+
+PhCN; 0.1 equiv
+
+H1, H2
+
+T(1)
+
+0.90 mequiv/g
+
+(meth)acrylamide-type
+
+2-(2-cyanopropyl)
+
+2-amino-4-hydroxy-6-methylpyrimidine
+
+Na2SO4
+
+[BADGE]/[MY721]
+
+Yuzo
+
+TP3
+
+19F NMR
+
+PS-M(2 mL)
+
+tetrakis(triphenylphosphine)
+
+2,4-di(4-bromoaryl)-2,4,6,6-tetra(ethoxy)-cyclotriphosphazene
+
+2-hydroxylethyl methacrylate-2-bromoisobutyryl bromide
+
+trans-2,4-di(4-(4-bromophenyl)phenoxy)-2,4,6,6-tetra(ethoxy)cyclotriphosphazene
+
+0.145 g, 70%
+
+13C
+
+DABI
+
+2Se
+
+4-CPDB
+
+Iodopropyltris(1,1,1,3,5,5,5-heptamethyltrisiloxy)silane
+
+1.0%
+
+N-(2-hydroxyethyl)prop-2-enamide
+
+poly(ferrocenylmethylsilane)
+
+3,4-dibromothiophene
+
+2-methylimidazole
+
+1,4-dibromo-2,5-dimethoxybenezene
+
+Me6TREN
+
+1,4-diethynyl-2,5-bis(trifluoromethyl)benzene
+
+poly(m-phenylene oxides)
+
+0.25 equiv
+
+FAB-MS
+
+2-((2-hydroxyethyl)disulfanyl)ethyl
+
+2,3-Bis(5-octylthiophen-2-yl)-5,8-di(thiophen-2-yl)quinoxaline
+
+0.90 equiv
+
+1.05 g, 85%
+
+PAN/PBA
+
+PFTTQx:PC71BM
+
+[1]methylphenylsilaferrocenophane
+
+Polyethyl
+
+CDCl3, 600 MHz
+
+0.15 mmol, 0.12 g
+
+0.46 mol;  47.3 g
+
+30 mg
+
+1-ethyl-3-methylimidazolium
+
+ARKEMA
+
+PDMAEMA
+
+0.75 g, 78%
+
+CuSO4
+
+PMMA10k
+
+tetrakis(triphenylphosphine)palladium(0)
+
+100%
+
++81-532-44-6929
+
+LB-PBD/CR-PBD
+
+N-methylpyrrolidinone
+
+1P
+
+1,2,4,5-Tetrafluoro-3,6-bis(4-methoxyphenoxy)benzene
+
+{CR-PBD
+
+MegaViewIII
+
+PANI
+
+2-S
+
+DMSO-d6, 600 MHz
+
+0.75 equiv
+
+PS/PMMA
+
+1.0 equiv
+
+(meth)acrylamides
+
+ppm, CDCl3, 400 MHz
+
+5,8-Dibromo-2,3-bis(5-octylthiophen-2-yl)quinoxaline
+
+125 MHz, CDCl3
+
+LB-PBD
+
+poly(p-tert-butylstyrene)
+
+bis(phenylisocyanate)
+
+400 MHz, CDCl3
+
+N-(2-ethylhexyl)maleimide
+
+ORTEP3
+
+MgSO4
+
+PEHMA
+
+octylmagnesium
+
+Xu*
+
+Cacrylamide
+
+NANO
+
+4-(4-Methoxyphenyl)-1-(3-phenoxypropyl)piperidine-4-ol
+
+2,6-difluorobenzonitrile
+
+29Si
+
+DMR-1121107
+
+Takayuki
+
+10 equiv
+
+PtBu2Me-HBF4
+
+0.02%
+
+r33
+
+NSQI
+
+9,9-dialkylflourene-2,7-bis(trimethyleneborate)s
+
+P(DEGA-co-OEGA)
+
+[bis(triphenylphosphino)aryl]nickel(II)
+
+CDCl3, 300 MHz
+
+1.5 mmol, 0.1 g
+
+0.10 equiv
+
+(2,5-bis(2-(2-(2-(pyridin-2-yloxy)ethoxy)ethoxy)ethoxy)-1,4-phenylene)diboronic
+
+Polyphosphazene
+
+Poly(ether sulfone)s
+
+0.2 MPa
+
+50 mg
+
+bis(trifluoromethanesulfonyl)
+
+Dibromotriphenylphosphorane
+
+MAGNA-IR
+
+PLA-Ma
+
+0.42 g, 70%
+
+B(4-iodophenyl)2Q
+
+HAB
+
+FT-IR
+
+PEC\P
+
+9.0 mg
+
+2-Trifluoromethacrylate
+
+0.14 g, 91%
+
+poly(phenylene ether)s
+
+Ueda*
+
+2-Hexyl-4,6-bis(trimethylstannyl)thieno[3,4-b]thiophene
+
+PI321
+
+PS
+
+PPFR-1; perfluoro-3-ethyl-2,4-dimethyl-3-pentyl
+
+0.17 g, 64%
+
+1.11 g, 85%
+
+SiOH
+
+PE
+
+PIM-6FDA-OH
+
+hexane:Et2O, 10:1
+
+2-hydroxymethyl-2-methyl-butanoic
+
+[TEPA]/[BADGE]
+
+CR-PBD
+
+pBnMA
+
+12 mg
+
+O-ethyl-S-(1-phenylethyl)
+
+LB-PBD}
+
+rVF2
+
+5,8-dibromo-2,3-dimethylquinoxaline
+
+500 MHz, CDCl3, ppm
+
+PM-4X
+
+PS/PVME
+
+1,1,2-trifluoroethylene
+
+1,3-dimethyl-2-imidazolidinone
+
+1.0 g, 89%
+
+BSPB
+
+bis(2-hydroxyethyl)
+
+500 MHz, CDCl3
+
+3,6-POC-TP
+
+P(DMAEA)
+
+4.0 mL, pH 7.4
+
+TEA, 2.5 equiv
+
+N,N-dimethylformamide
+
+C1
+
+poly(N-methylglycine)
+
+(Pd2(dba)3)/tri(o-tolyl)phosphine
+
+0.11
+
+PTEA11K-b-PAM30K
+
+300 MHz
+
+bis(trifluoromethanesulfonyl)amide
+
+NMR
+
+MWOEGA
+
+1H, 300 MHz; 13C, 75 MHz
+
+perfluorobutyryl
+
+2,7-dibromo-9,9-dioctylfluorene
+
+250.0 mmol, 3.8 equiv
+
+0.012 mbar
+
+BC6
+
+2,8-dibromo-10,10-dioctyl-N-methylphenazasiline
+
+420.00 mmol, 3.33 equiv
+
+CDCl3, 500 MHz
+
+31P
+
+500 MHz, DMSO-d6, ppm
+
+PEO-1000/PMMA
+
+Bis-AF
+
+2-Trifluoromethacrylic
+
+9,9-dialkylflourene-2,7-bis(trimethyleneborate)
+
+PPh3Br2, 1.2 equiv
+
+2.5 equiv
+
+cyclohexylcarbodiimidoethyl
+
+N-(2-hydroxyethyl)
+
+PFTTPz:PC71BM
+
+300 MHz, CDCl3
+
+2-mercaptoethylamine
+
+Hyunbum
+
+H3C
+
+(BPADA)/2,2-bis[4-4(-aminophenoxy)phenyl]propane
+
+5.0 mg
+
+4,7-dibromo-2-(2-ethylhexyl)-2H-benzotriazole
+
+Tri-o-tolylphosphine
+
+cis-2,4-di(4-(4-bromophenyl)phenoxy)-2,4,6,6-tetra(ethoxy)-cyclotriphosphazene
+
+31P{1H}
+
+IB
+
+perfluoro-3-ethyl-2,4-dimethyl-3-pentyl
+
+500 MHz, DMSO-d6
+
+IONP@P(EPA0.5-DMAPA0.5)-b-P(OEGA)
+
+0.48 g, 94%
+
+Fawcett
+
+HBL
+
+BADGE, 170 g/equiv
+
+Polybutadiene
+
+0.24 g
+
+CR-PBD/LB-PBD
+
+400 MHz
+
+2,7-bis(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)-9,9-dioctylfluorene
+
+PtBA
+
+Kazuya
+
+0.229 g, 76%
+
+247.4 mmol, 3.8 equiv
+
+0.23 mol; 29.1 g
+
+(0.278
+
+PET
+
+Yuzuru
+
+5f
+
+2-Dodecyl-4,6-bis(trimethylstannyl)thieno[3,4-b]thiophene
+
+2,4-di(4-bromoaryl)-2,4,6,6-tetra(phenoxy)-cyclotriphosphazene
+
+10.0 mg
+
+3,3,3-Trifluoropropene
+
+Katsuyuki
+
+oligo(ferrocenyldimethylsilanes)
+
+Nacrylamide
+
+PTEA5K-b-PAM30K
+
+DMSO-d6, 400 MHz
+
+MeCN
+
+Me6TREN/MeCN
+
+2,7-POC-TP
+
+2,2-bis(4-hydroxyphenyl)hexafluoropropane
+
+4,4-Bis(4-methoxyphenyl)-1-(3-phenoxypropyl)piperidine
+
+PPh3; 3.0 equiv
+
+4,4-Bis(4-methoxyphenyl)piperidine
+
+1.0 g, 97%
+
+BPh2Q
+
+ppm, CDCl3, 500 MHz
+
+126.00 mmol, 1.00 equiv
+
+1,4-Dimethoxy-2,5-diphenylbenzene
+
+2-((2-(Acryloyloxy)ethyl)disulfanyl)ethyl
+
+(K.G.Y
+
+Fujiki*
+
+SPMMA0
+
+150 MHz, CDCl3
+
+Aerogel/Poly(vinyl alcohol)
+
+gem-2,2-Di(4-(4-bromophenyl)phenoxy)-4,4,6,6-tetrachlorocyclotriphosphazene
+
+2,2-bis(3,4-dicarboxyphenyl)hexafluoropropane
+
+0.50 equiv
+
+PS54K
+
+N-methylmaleimide
+
+1,4-diethynyl-2,5-dihexadecyloxybenzene
+
+Poly(ether sulfone)
+
+13C{1H}
+
+400M, CDCl3
+
+1-Methylenebenzocycloalkanes
+
+polyferrocenylsilane
+
+trifluoromethanesulfonic
+
+Coumarin-click-propyltris(1,1,1,3,5,5,5-heptamethyltrisiloxy)silane
+
+PMA
+
+PDEGA/P(DEGA-co-OEGA)
+
+PMMA/CNT
+
+TTC-1), 1 equiv
+
+1,1-diphenyl-3,3-dimethyl
+
+P(o-tolyl)3
+
+N-methyl-2-pyrrolidone
+
+0.978 g
+
+poly(4-bromostyrene)
+
+75 MHz, CDCl3
+
+Han*
+
+CDCl3, 400 MHz
+
+2,7-Dibromo-9,10-diethyoxylphenanthrene
+
+PMAS
+
+0.61
+
+cis-2,4-di(4-bromophenoxy)-2,4,6,6-tetra(ethoxy)cyclotriphosphazene
+
+CHARMM27
+
+2,7-dioctyl-9,10-diethyoxylphenanthrene
+
+PCHA
+
+C17H17NO2
+
+[1,3-bis(diphenylphosphino)propane]nickel(II)
+
+3-(carboxy)-2,2,5,5-tetramethyl-1-pyrrolidinyloxy
+
+125 MHz, CDCl3, ppm
+
+1.35 mmol, 0.19 g
+
+2-ethylhexylmaleimides
+
++81-743-726049
+
+Cybershot, 3.3 Megapixels
+
+PMMA9K/PEO6K
+
+meth)acrylates
+
+PLAs
+
+MEXT/JSPS
+
+trifluoromethanesulfonimide
+
