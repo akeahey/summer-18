@@ -52,4 +52,6 @@
 * 7_combined_evaluation.ipynb
 
     + Compares input list to ground_truth_polymers_list.txt
+    
+NOTE: db/sentences.db must be uploaded in order for programs to run (I was not able to upload to repo due to file size)
 
